@@ -1,0 +1,6 @@
+Note: The complete dataset also can be downloaded publicly at
+https://www.kaggle.com/usdot/flight-delays
+
+By compiling information on world flights, we compared the powerful optimization capabilities of Catalyst
+ in spark Sql. It is far faster than RDD when dealing with structured data. of course RDD has a wide range 
+of applications.
