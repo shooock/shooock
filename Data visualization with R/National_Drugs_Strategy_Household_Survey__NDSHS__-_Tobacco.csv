@@ -1,0 +1,910 @@
+Year,Region,Category,Indicator,Characteristic,Age,Sex,Result,Unit,Significants (g),Comments
+1998,NSW,Tobacco,Smoking status,Daily,18+,Persons,21.8,Per cent,,
+1998,VIC,Tobacco,Smoking status,Daily,18+,Persons,22.9,Per cent,,
+1998,Qld,Tobacco,Smoking status,Daily,18+,Persons,24.3,Per cent,,
+1998,WA,Tobacco,Smoking status,Daily,18+,Persons,23.6,Per cent,,
+1998,SA,Tobacco,Smoking status,Daily,18+,Persons,19.4,Per cent,,
+1998,Tas,Tobacco,Smoking status,Daily,18+,Persons,25.3,Per cent,,
+1998,ACT,Tobacco,Smoking status,Daily,18+,Persons,22.9,Per cent,,
+1998,NT,Tobacco,Smoking status,Daily,18+,Persons,32.5,Per cent,,
+1998,Australia,Tobacco,Smoking status,Daily,18+,Persons,22.7,Per cent,,
+2001,NSW,Tobacco,Smoking status,Daily,18+,Persons,18.6,Per cent,,
+2001,VIC,Tobacco,Smoking status,Daily,18+,Persons,19.9,Per cent,,
+2001,Qld,Tobacco,Smoking status,Daily,18+,Persons,21.6,Per cent,,
+2001,WA,Tobacco,Smoking status,Daily,18+,Persons,20.8,Per cent,,
+2001,SA,Tobacco,Smoking status,Daily,18+,Persons,20.5,Per cent,,
+2001,Tas,Tobacco,Smoking status,Daily,18+,Persons,21.4,Per cent,,
+2001,ACT,Tobacco,Smoking status,Daily,18+,Persons,18.5,Per cent,,
+2001,NT,Tobacco,Smoking status,Daily,18+,Persons,28.7,Per cent,,
+2001,Australia,Tobacco,Smoking status,Daily,18+,Persons,20,Per cent,,
+2004,NSW,Tobacco,Smoking status,Daily,18+,Persons,17.2,Per cent,,
+2004,VIC,Tobacco,Smoking status,Daily,18+,Persons,18.2,Per cent,,
+2004,Qld,Tobacco,Smoking status,Daily,18+,Persons,20.7,Per cent,,
+2004,WA,Tobacco,Smoking status,Daily,18+,Persons,16.4,Per cent,,
+2004,SA,Tobacco,Smoking status,Daily,18+,Persons,17.2,Per cent,,
+2004,Tas,Tobacco,Smoking status,Daily,18+,Persons,22.3,Per cent,,
+2004,ACT,Tobacco,Smoking status,Daily,18+,Persons,16.1,Per cent,,
+2004,NT,Tobacco,Smoking status,Daily,18+,Persons,28.5,Per cent,,
+2004,Australia,Tobacco,Smoking status,Daily,18+,Persons,18.2,Per cent,,
+2007,NSW,Tobacco,Smoking status,Daily,18+,Persons,17.2,Per cent,,
+2007,VIC,Tobacco,Smoking status,Daily,18+,Persons,17.4,Per cent,,
+2007,Qld,Tobacco,Smoking status,Daily,18+,Persons,17.9,Per cent,,
+2007,WA,Tobacco,Smoking status,Daily,18+,Persons,15.6,Per cent,,
+2007,SA,Tobacco,Smoking status,Daily,18+,Persons,17.6,Per cent,,
+2007,Tas,Tobacco,Smoking status,Daily,18+,Persons,24,Per cent,,
+2007,ACT,Tobacco,Smoking status,Daily,18+,Persons,15.2,Per cent,,
+2007,NT,Tobacco,Smoking status,Daily,18+,Persons,27.1,Per cent,,
+2007,Australia,Tobacco,Smoking status,Daily,18+,Persons,17.5,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,18+,Persons,15,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,18+,Persons,15.5,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,18+,Persons,17.7,Per cent,,
+2010,WA,Tobacco,Smoking status,Daily,18+,Persons,16.5,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,18+,Persons,15.7,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,18+,Persons,16.9,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,18+,Persons,11.7,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,18+,Persons,23.9,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,18+,Persons,15.9,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,18+,Persons,12.2,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,18+,Persons,12.6,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,18+,Persons,15.7,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,18+,Persons,12.5,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,18+,Persons,13.6,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,18+,Persons,16.7,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,18+,Persons,9.9,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,18+,Persons,22.2,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,18+,Persons,13.3,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,18+,Persons,12,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,18+,Persons,12.3,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,18+,Persons,15.2,Per cent,,
+2016,WA,Tobacco,Smoking status,Daily,18+,Persons,12.2,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,18+,Persons,11.4,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,18+,Persons,16.9,Per cent,,
+2016,ACT,Tobacco,Smoking status,Daily,18+,Persons,9.9,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,18+,Persons,18.5,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,18+,Persons,12.8,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,14+,Males,15.6,Per cent,,
+2010,NSW,Tobacco,Smoking status,Weekly,14+,Males,1.7,Per cent,,
+2010,NSW,Tobacco,Smoking status,Less than weekly,14+,Males,1.3,Per cent,,
+2010,NSW,Tobacco,Smoking status,Ex-smoker,14+,Males,25.1,Per cent,,
+2010,NSW,Tobacco,Smoking status,Never smoked,14+,Males,56.3,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,14+,Females,12.9,Per cent,,
+2010,NSW,Tobacco,Smoking status,Weekly,14+,Females,1,Per cent,,
+2010,NSW,Tobacco,Smoking status,Less than weekly,14+,Females,1.2,Per cent,,
+2010,NSW,Tobacco,Smoking status,Ex-smoker,14+,Females,21.7,Per cent,,
+2010,NSW,Tobacco,Smoking status,Never smoked,14+,Females,63.3,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,14+,Persons,14.2,Per cent,,
+2010,NSW,Tobacco,Smoking status,Weekly,14+,Persons,1.4,Per cent,,
+2010,NSW,Tobacco,Smoking status,Less than weekly,14+,Persons,1.2,Per cent,,
+2010,NSW,Tobacco,Smoking status,Ex-smoker,14+,Persons,23.3,Per cent,,
+2010,NSW,Tobacco,Smoking status,Never smoked,14+,Persons,59.8,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,14+,Males,15,Per cent,,
+2010,VIC,Tobacco,Smoking status,Weekly,14+,Males,2.6,Per cent,,
+2010,VIC,Tobacco,Smoking status,Less than weekly,14+,Males,1.5,Per cent,,
+2010,VIC,Tobacco,Smoking status,Ex-smoker,14+,Males,25.2,Per cent,,
+2010,VIC,Tobacco,Smoking status,Never smoked,14+,Males,55.6,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,14+,Females,14.7,Per cent,,
+2010,VIC,Tobacco,Smoking status,Weekly,14+,Females,1.4,Per cent,,
+2010,VIC,Tobacco,Smoking status,Less than weekly,14+,Females,1.4,Per cent,,
+2010,VIC,Tobacco,Smoking status,Ex-smoker,14+,Females,20.1,Per cent,,
+2010,VIC,Tobacco,Smoking status,Never smoked,14+,Females,62.4,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,14+,Persons,14.9,Per cent,,
+2010,VIC,Tobacco,Smoking status,Weekly,14+,Persons,2,Per cent,,
+2010,VIC,Tobacco,Smoking status,Less than weekly,14+,Persons,1.4,Per cent,,
+2010,VIC,Tobacco,Smoking status,Ex-smoker,14+,Persons,22.6,Per cent,,
+2010,VIC,Tobacco,Smoking status,Never smoked,14+,Persons,59,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,14+,Males,18.4,Per cent,,
+2010,Qld,Tobacco,Smoking status,Weekly,14+,Males,1.7,Per cent,,
+2010,Qld,Tobacco,Smoking status,Less than weekly,14+,Males,1.7,Per cent,,
+2010,Qld,Tobacco,Smoking status,Ex-smoker,14+,Males,28.2,Per cent,,
+2010,Qld,Tobacco,Smoking status,Never smoked,14+,Males,50.1,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,14+,Females,15,Per cent,,
+2010,Qld,Tobacco,Smoking status,Weekly,14+,Females,1.5,Per cent,,
+2010,Qld,Tobacco,Smoking status,Less than weekly,14+,Females,1.1,Per cent,,
+2010,Qld,Tobacco,Smoking status,Ex-smoker,14+,Females,23.5,Per cent,,
+2010,Qld,Tobacco,Smoking status,Never smoked,14+,Females,58.8,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,14+,Persons,16.7,Per cent,,
+2010,Qld,Tobacco,Smoking status,Weekly,14+,Persons,1.6,Per cent,,
+2010,Qld,Tobacco,Smoking status,Less than weekly,14+,Persons,1.4,Per cent,,
+2010,Qld,Tobacco,Smoking status,Ex-smoker,14+,Persons,25.8,Per cent,,
+2010,Qld,Tobacco,Smoking status,Never smoked,14+,Persons,54.5,Per cent,,
+2010,WA,Tobacco,Smoking status,Daily,14+,Males,17.5,Per cent,,
+2010,WA,Tobacco,Smoking status,Weekly,14+,Males,2.1,Per cent,,
+2010,WA,Tobacco,Smoking status,Less than weekly,14+,Males,2.4,Per cent,,*
+2010,WA,Tobacco,Smoking status,Ex-smoker,14+,Males,26.8,Per cent,,
+2010,WA,Tobacco,Smoking status,Never smoked,14+,Males,51.2,Per cent,,
+2010,WA,Tobacco,Smoking status,Daily,14+,Females,13.6,Per cent,,
+2010,WA,Tobacco,Smoking status,Weekly,14+,Females,0.8,Per cent,,*
+2010,WA,Tobacco,Smoking status,Less than weekly,14+,Females,0.9,Per cent,,*
+2010,WA,Tobacco,Smoking status,Ex-smoker,14+,Females,21.9,Per cent,,
+2010,WA,Tobacco,Smoking status,Never smoked,14+,Females,62.8,Per cent,,
+2010,WA,Tobacco,Smoking status,Daily,14+,Persons,15.6,Per cent,,
+2010,WA,Tobacco,Smoking status,Weekly,14+,Persons,1.5,Per cent,,
+2010,WA,Tobacco,Smoking status,Less than weekly,14+,Persons,1.6,Per cent,,
+2010,WA,Tobacco,Smoking status,Ex-smoker,14+,Persons,24.4,Per cent,,
+2010,WA,Tobacco,Smoking status,Never smoked,14+,Persons,56.9,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,14+,Males,17.1,Per cent,,
+2010,SA,Tobacco,Smoking status,Weekly,14+,Males,0.6,Per cent,,*
+2010,SA,Tobacco,Smoking status,Less than weekly,14+,Males,1.4,Per cent,,*
+2010,SA,Tobacco,Smoking status,Ex-smoker,14+,Males,29.2,Per cent,,
+2010,SA,Tobacco,Smoking status,Never smoked,14+,Males,51.8,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,14+,Females,13.1,Per cent,,
+2010,SA,Tobacco,Smoking status,Weekly,14+,Females,0.8,Per cent,,*
+2010,SA,Tobacco,Smoking status,Less than weekly,14+,Females,2,Per cent,,
+2010,SA,Tobacco,Smoking status,Ex-smoker,14+,Females,22.5,Per cent,,
+2010,SA,Tobacco,Smoking status,Never smoked,14+,Females,61.6,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,14+,Persons,15,Per cent,,
+2010,SA,Tobacco,Smoking status,Weekly,14+,Persons,0.7,Per cent,,
+2010,SA,Tobacco,Smoking status,Less than weekly,14+,Persons,1.7,Per cent,,
+2010,SA,Tobacco,Smoking status,Ex-smoker,14+,Persons,25.8,Per cent,,
+2010,SA,Tobacco,Smoking status,Never smoked,14+,Persons,56.8,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,14+,Males,16.1,Per cent,,
+2010,Tas,Tobacco,Smoking status,Weekly,14+,Males,1.9,Per cent,,*
+2010,Tas,Tobacco,Smoking status,Less than weekly,14+,Males,1.2,Per cent,,*
+2010,Tas,Tobacco,Smoking status,Ex-smoker,14+,Males,33.6,Per cent,,
+2010,Tas,Tobacco,Smoking status,Never smoked,14+,Males,47.2,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,14+,Females,15.8,Per cent,,
+2010,Tas,Tobacco,Smoking status,Weekly,14+,Females,1.4,Per cent,,*
+2010,Tas,Tobacco,Smoking status,Less than weekly,14+,Females,0.6,Per cent,,**
+2010,Tas,Tobacco,Smoking status,Ex-smoker,14+,Females,24,Per cent,,
+2010,Tas,Tobacco,Smoking status,Never smoked,14+,Females,58.2,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,14+,Persons,15.9,Per cent,,
+2010,Tas,Tobacco,Smoking status,Weekly,14+,Persons,1.7,Per cent,,
+2010,Tas,Tobacco,Smoking status,Less than weekly,14+,Persons,0.9,Per cent,,*
+2010,Tas,Tobacco,Smoking status,Ex-smoker,14+,Persons,28.7,Per cent,,
+2010,Tas,Tobacco,Smoking status,Never smoked,14+,Persons,52.8,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,14+,Males,12,Per cent,,
+2010,ACT,Tobacco,Smoking status,Weekly,14+,Males,1.6,Per cent,,*
+2010,ACT,Tobacco,Smoking status,Less than weekly,14+,Males,3,Per cent,,*
+2010,ACT,Tobacco,Smoking status,Ex-smoker,14+,Males,25.6,Per cent,,
+2010,ACT,Tobacco,Smoking status,Never smoked,14+,Males,57.8,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,14+,Females,10.1,Per cent,,
+2010,ACT,Tobacco,Smoking status,Weekly,14+,Females,0.4,Per cent,,**
+2010,ACT,Tobacco,Smoking status,Less than weekly,14+,Females,0.7,Per cent,,*
+2010,ACT,Tobacco,Smoking status,Ex-smoker,14+,Females,24.3,Per cent,,
+2010,ACT,Tobacco,Smoking status,Never smoked,14+,Females,64.5,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,14+,Persons,11,Per cent,,
+2010,ACT,Tobacco,Smoking status,Weekly,14+,Persons,1,Per cent,,*
+2010,ACT,Tobacco,Smoking status,Less than weekly,14+,Persons,1.8,Per cent,,
+2010,ACT,Tobacco,Smoking status,Ex-smoker,14+,Persons,24.9,Per cent,,
+2010,ACT,Tobacco,Smoking status,Never smoked,14+,Persons,61.2,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,14+,Males,27.5,Per cent,,
+2010,NT,Tobacco,Smoking status,Weekly,14+,Males,2.1,Per cent,,*
+2010,NT,Tobacco,Smoking status,Less than weekly,14+,Males,1.8,Per cent,,*
+2010,NT,Tobacco,Smoking status,Ex-smoker,14+,Males,23.3,Per cent,,
+2010,NT,Tobacco,Smoking status,Never smoked,14+,Males,45.3,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,14+,Females,16.8,Per cent,,
+2010,NT,Tobacco,Smoking status,Weekly,14+,Females,2.4,Per cent,,*
+2010,NT,Tobacco,Smoking status,Less than weekly,14+,Females,1,Per cent,,*
+2010,NT,Tobacco,Smoking status,Ex-smoker,14+,Females,25,Per cent,,
+2010,NT,Tobacco,Smoking status,Never smoked,14+,Females,54.9,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,14+,Persons,22.3,Per cent,,
+2010,NT,Tobacco,Smoking status,Weekly,14+,Persons,2.2,Per cent,,
+2010,NT,Tobacco,Smoking status,Less than weekly,14+,Persons,1.4,Per cent,,*
+2010,NT,Tobacco,Smoking status,Ex-smoker,14+,Persons,24.1,Per cent,,
+2010,NT,Tobacco,Smoking status,Never smoked,14+,Persons,49.9,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,14+,Males,16.4,Per cent,,
+2010,Australia,Tobacco,Smoking status,Weekly,14+,Males,1.9,Per cent,,
+2010,Australia,Tobacco,Smoking status,Less than weekly,14+,Males,1.6,Per cent,,
+2010,Australia,Tobacco,Smoking status,Ex-smoker,14+,Males,26.4,Per cent,,
+2010,Australia,Tobacco,Smoking status,Never smoked,14+,Males,53.7,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,14+,Females,13.9,Per cent,,
+2010,Australia,Tobacco,Smoking status,Weekly,14+,Females,1.2,Per cent,,
+2010,Australia,Tobacco,Smoking status,Less than weekly,14+,Females,1.2,Per cent,,
+2010,Australia,Tobacco,Smoking status,Ex-smoker,14+,Females,21.8,Per cent,,
+2010,Australia,Tobacco,Smoking status,Never smoked,14+,Females,61.8,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,14+,Persons,15.1,Per cent,,
+2010,Australia,Tobacco,Smoking status,Weekly,14+,Persons,1.5,Per cent,,
+2010,Australia,Tobacco,Smoking status,Less than weekly,14+,Persons,1.4,Per cent,,
+2010,Australia,Tobacco,Smoking status,Ex-smoker,14+,Persons,24.1,Per cent,,
+2010,Australia,Tobacco,Smoking status,Never smoked,14+,Persons,57.8,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,14+,Males,13.1,Per cent,,
+2013,NSW,Tobacco,Smoking status,Weekly,14+,Males,1.8,Per cent,,
+2013,NSW,Tobacco,Smoking status,Less than weekly,14+,Males,2,Per cent,,
+2013,NSW,Tobacco,Smoking status,Ex-smoker,14+,Males,25,Per cent,,
+2013,NSW,Tobacco,Smoking status,Never smoked,14+,Males,58.1,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,14+,Females,10.3,Per cent,,
+2013,NSW,Tobacco,Smoking status,Weekly,14+,Females,1,Per cent,,
+2013,NSW,Tobacco,Smoking status,Less than weekly,14+,Females,1.1,Per cent,,
+2013,NSW,Tobacco,Smoking status,Ex-smoker,14+,Females,21.2,Per cent,,
+2013,NSW,Tobacco,Smoking status,Never smoked,14+,Females,66.4,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,14+,Persons,11.7,Per cent,,
+2013,NSW,Tobacco,Smoking status,Weekly,14+,Persons,1.4,Per cent,,
+2013,NSW,Tobacco,Smoking status,Less than weekly,14+,Persons,1.6,Per cent,,
+2013,NSW,Tobacco,Smoking status,Ex-smoker,14+,Persons,23,Per cent,,
+2013,NSW,Tobacco,Smoking status,Never smoked,14+,Persons,62.3,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,14+,Males,13.9,Per cent,,
+2013,VIC,Tobacco,Smoking status,Weekly,14+,Males,2.3,Per cent,,
+2013,VIC,Tobacco,Smoking status,Less than weekly,14+,Males,2.3,Per cent,,
+2013,VIC,Tobacco,Smoking status,Ex-smoker,14+,Males,23.8,Per cent,,
+2013,VIC,Tobacco,Smoking status,Never smoked,14+,Males,57.7,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,14+,Females,10.6,Per cent,,
+2013,VIC,Tobacco,Smoking status,Weekly,14+,Females,1.3,Per cent,,
+2013,VIC,Tobacco,Smoking status,Less than weekly,14+,Females,1.4,Per cent,,
+2013,VIC,Tobacco,Smoking status,Ex-smoker,14+,Females,21.4,Per cent,,
+2013,VIC,Tobacco,Smoking status,Never smoked,14+,Females,65.4,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,14+,Persons,12.2,Per cent,,
+2013,VIC,Tobacco,Smoking status,Weekly,14+,Persons,1.8,Per cent,,
+2013,VIC,Tobacco,Smoking status,Less than weekly,14+,Persons,1.8,Per cent,,
+2013,VIC,Tobacco,Smoking status,Ex-smoker,14+,Persons,22.6,Per cent,,
+2013,VIC,Tobacco,Smoking status,Never smoked,14+,Persons,61.6,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,14+,Males,16.8,Per cent,,
+2013,Qld,Tobacco,Smoking status,Weekly,14+,Males,1.7,Per cent,,
+2013,Qld,Tobacco,Smoking status,Less than weekly,14+,Males,1.2,Per cent,,*
+2013,Qld,Tobacco,Smoking status,Ex-smoker,14+,Males,27,Per cent,,
+2013,Qld,Tobacco,Smoking status,Never smoked,14+,Males,53.3,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,14+,Females,13.3,Per cent,,
+2013,Qld,Tobacco,Smoking status,Weekly,14+,Females,0.7,Per cent,,
+2013,Qld,Tobacco,Smoking status,Less than weekly,14+,Females,1.1,Per cent,,
+2013,Qld,Tobacco,Smoking status,Ex-smoker,14+,Females,23,Per cent,,
+2013,Qld,Tobacco,Smoking status,Never smoked,14+,Females,61.9,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,14+,Persons,15,Per cent,,
+2013,Qld,Tobacco,Smoking status,Weekly,14+,Persons,1.2,Per cent,,
+2013,Qld,Tobacco,Smoking status,Less than weekly,14+,Persons,1.2,Per cent,,
+2013,Qld,Tobacco,Smoking status,Ex-smoker,14+,Persons,25,Per cent,,
+2013,Qld,Tobacco,Smoking status,Never smoked,14+,Persons,57.6,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,14+,Males,15.7,Per cent,,
+2013,WA,Tobacco,Smoking status,Weekly,14+,Males,1.1,Per cent,,*
+2013,WA,Tobacco,Smoking status,Less than weekly,14+,Males,3,Per cent,,
+2013,WA,Tobacco,Smoking status,Ex-smoker,14+,Males,31,Per cent,,
+2013,WA,Tobacco,Smoking status,Never smoked,14+,Males,49.2,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,14+,Females,9,Per cent,,
+2013,WA,Tobacco,Smoking status,Weekly,14+,Females,1.2,Per cent,,*
+2013,WA,Tobacco,Smoking status,Less than weekly,14+,Females,1.4,Per cent,,
+2013,WA,Tobacco,Smoking status,Ex-smoker,14+,Females,24,Per cent,,
+2013,WA,Tobacco,Smoking status,Never smoked,14+,Females,64.3,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,14+,Persons,12.4,Per cent,,
+2013,WA,Tobacco,Smoking status,Weekly,14+,Persons,1.2,Per cent,,
+2013,WA,Tobacco,Smoking status,Less than weekly,14+,Persons,2.2,Per cent,,
+2013,WA,Tobacco,Smoking status,Ex-smoker,14+,Persons,27.5,Per cent,,
+2013,WA,Tobacco,Smoking status,Never smoked,14+,Persons,56.7,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,14+,Males,12.5,Per cent,,
+2013,SA,Tobacco,Smoking status,Weekly,14+,Males,0.6,Per cent,,*
+2013,SA,Tobacco,Smoking status,Less than weekly,14+,Males,2.8,Per cent,,*
+2013,SA,Tobacco,Smoking status,Ex-smoker,14+,Males,26.8,Per cent,,
+2013,SA,Tobacco,Smoking status,Never smoked,14+,Males,57.3,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,14+,Females,13.1,Per cent,,
+2013,SA,Tobacco,Smoking status,Weekly,14+,Females,1,Per cent,,**
+2013,SA,Tobacco,Smoking status,Less than weekly,14+,Females,0.9,Per cent,,*
+2013,SA,Tobacco,Smoking status,Ex-smoker,14+,Females,23,Per cent,,
+2013,SA,Tobacco,Smoking status,Never smoked,14+,Females,62,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,14+,Persons,12.8,Per cent,,
+2013,SA,Tobacco,Smoking status,Weekly,14+,Persons,0.8,Per cent,,*
+2013,SA,Tobacco,Smoking status,Less than weekly,14+,Persons,1.8,Per cent,,
+2013,SA,Tobacco,Smoking status,Ex-smoker,14+,Persons,24.9,Per cent,,
+2013,SA,Tobacco,Smoking status,Never smoked,14+,Persons,59.7,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,14+,Males,19.2,Per cent,,
+2013,Tas,Tobacco,Smoking status,Weekly,14+,Males,1.9,Per cent,,*
+2013,Tas,Tobacco,Smoking status,Less than weekly,14+,Males,1.2,Per cent,,*
+2013,Tas,Tobacco,Smoking status,Ex-smoker,14+,Males,29.1,Per cent,,
+2013,Tas,Tobacco,Smoking status,Never smoked,14+,Males,48.6,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,14+,Females,13,Per cent,,
+2013,Tas,Tobacco,Smoking status,Weekly,14+,Females,0.6,Per cent,,**
+2013,Tas,Tobacco,Smoking status,Less than weekly,14+,Females,1.1,Per cent,,*
+2013,Tas,Tobacco,Smoking status,Ex-smoker,14+,Females,27,Per cent,,
+2013,Tas,Tobacco,Smoking status,Never smoked,14+,Females,58.4,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,14+,Persons,16.1,Per cent,,
+2013,Tas,Tobacco,Smoking status,Weekly,14+,Persons,1.2,Per cent,,*
+2013,Tas,Tobacco,Smoking status,Less than weekly,14+,Persons,1.1,Per cent,,*
+2013,Tas,Tobacco,Smoking status,Ex-smoker,14+,Persons,28.1,Per cent,,
+2013,Tas,Tobacco,Smoking status,Never smoked,14+,Persons,53.5,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,14+,Males,9.7,Per cent,,
+2013,ACT,Tobacco,Smoking status,Weekly,14+,Males,2.6,Per cent,,*
+2013,ACT,Tobacco,Smoking status,Less than weekly,14+,Males,0.8,Per cent,,**
+2013,ACT,Tobacco,Smoking status,Ex-smoker,14+,Males,23.8,Per cent,,
+2013,ACT,Tobacco,Smoking status,Never smoked,14+,Males,63,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,14+,Females,9.6,Per cent,,
+2013,ACT,Tobacco,Smoking status,Weekly,14+,Females,0.3,Per cent,,**
+2013,ACT,Tobacco,Smoking status,Less than weekly,14+,Females,1.2,Per cent,,*
+2013,ACT,Tobacco,Smoking status,Ex-smoker,14+,Females,21.2,Per cent,,
+2013,ACT,Tobacco,Smoking status,Never smoked,14+,Females,67.6,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,14+,Persons,9.7,Per cent,,
+2013,ACT,Tobacco,Smoking status,Weekly,14+,Persons,1.5,Per cent,,*
+2013,ACT,Tobacco,Smoking status,Less than weekly,14+,Persons,1,Per cent,,*
+2013,ACT,Tobacco,Smoking status,Ex-smoker,14+,Persons,22.5,Per cent,,
+2013,ACT,Tobacco,Smoking status,Never smoked,14+,Persons,65.3,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,14+,Males,14.5,Per cent,,
+2013,Australia,Tobacco,Smoking status,Weekly,14+,Males,1.8,Per cent,,
+2013,Australia,Tobacco,Smoking status,Less than weekly,14+,Males,2,Per cent,,
+2013,Australia,Tobacco,Smoking status,Ex-smoker,14+,Males,26,Per cent,,
+2013,Australia,Tobacco,Smoking status,Never smoked,14+,Males,55.7,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,14+,Females,11.2,Per cent,,
+2013,Australia,Tobacco,Smoking status,Weekly,14+,Females,1,Per cent,,
+2013,Australia,Tobacco,Smoking status,Less than weekly,14+,Females,1.2,Per cent,,
+2013,Australia,Tobacco,Smoking status,Ex-smoker,14+,Females,22.2,Per cent,,
+2013,Australia,Tobacco,Smoking status,Never smoked,14+,Females,64.5,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,14+,Persons,12.8,Per cent,,
+2013,Australia,Tobacco,Smoking status,Weekly,14+,Persons,1.4,Per cent,,
+2013,Australia,Tobacco,Smoking status,Less than weekly,14+,Persons,1.6,Per cent,,
+2013,Australia,Tobacco,Smoking status,Ex-smoker,14+,Persons,24,Per cent,,
+2013,Australia,Tobacco,Smoking status,Never smoked,14+,Persons,60.1,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,14+,Males,12.3,Per cent,,
+2016,NSW,Tobacco,Smoking status,Weekly,14+,Males,1.4,Per cent,,
+2016,NSW,Tobacco,Smoking status,Less than weekly,14+,Males,1.3,Per cent,,
+2016,NSW,Tobacco,Smoking status,Ex-smoker,14+,Males,22.9,Per cent,,
+2016,NSW,Tobacco,Smoking status,Never smoked,14+,Males,62.1,Per cent,,#
+2016,NSW,Tobacco,Smoking status,Daily,14+,Females,10.7,Per cent,,
+2016,NSW,Tobacco,Smoking status,Weekly,14+,Females,1,Per cent,,
+2016,NSW,Tobacco,Smoking status,Less than weekly,14+,Females,1.3,Per cent,,
+2016,NSW,Tobacco,Smoking status,Ex-smoker,14+,Females,20.8,Per cent,,
+2016,NSW,Tobacco,Smoking status,Never smoked,14+,Females,66.2,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,14+,Persons,11.5,Per cent,,
+2016,NSW,Tobacco,Smoking status,Weekly,14+,Persons,1.2,Per cent,,
+2016,NSW,Tobacco,Smoking status,Less than weekly,14+,Persons,1.3,Per cent,,
+2016,NSW,Tobacco,Smoking status,Ex-smoker,14+,Persons,21.8,Per cent,,
+2016,NSW,Tobacco,Smoking status,Never smoked,14+,Persons,64.2,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,14+,Males,13.9,Per cent,,
+2016,VIC,Tobacco,Smoking status,Weekly,14+,Males,1.5,Per cent,,
+2016,VIC,Tobacco,Smoking status,Less than weekly,14+,Males,1.8,Per cent,,
+2016,VIC,Tobacco,Smoking status,Ex-smoker,14+,Males,23.3,Per cent,,
+2016,VIC,Tobacco,Smoking status,Never smoked,14+,Males,59.5,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,14+,Females,9.6,Per cent,,
+2016,VIC,Tobacco,Smoking status,Weekly,14+,Females,1.4,Per cent,,
+2016,VIC,Tobacco,Smoking status,Less than weekly,14+,Females,1.1,Per cent,,
+2016,VIC,Tobacco,Smoking status,Ex-smoker,14+,Females,21.1,Per cent,,
+2016,VIC,Tobacco,Smoking status,Never smoked,14+,Females,66.8,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,14+,Persons,11.7,Per cent,,
+2016,VIC,Tobacco,Smoking status,Weekly,14+,Persons,1.4,Per cent,,
+2016,VIC,Tobacco,Smoking status,Less than weekly,14+,Persons,1.4,Per cent,,
+2016,VIC,Tobacco,Smoking status,Ex-smoker,14+,Persons,22.2,Per cent,,
+2016,VIC,Tobacco,Smoking status,Never smoked,14+,Persons,63.2,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,14+,Males,17.3,Per cent,,
+2016,Qld,Tobacco,Smoking status,Weekly,14+,Males,1.7,Per cent,,
+2016,Qld,Tobacco,Smoking status,Less than weekly,14+,Males,2.2,Per cent,,
+2016,Qld,Tobacco,Smoking status,Ex-smoker,14+,Males,26.3,Per cent,,
+2016,Qld,Tobacco,Smoking status,Never smoked,14+,Males,52.6,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,14+,Females,11.8,Per cent,,
+2016,Qld,Tobacco,Smoking status,Weekly,14+,Females,1.1,Per cent,,*
+2016,Qld,Tobacco,Smoking status,Less than weekly,14+,Females,0.5,Per cent,,*#
+2016,Qld,Tobacco,Smoking status,Ex-smoker,14+,Females,23.2,Per cent,,
+2016,Qld,Tobacco,Smoking status,Never smoked,14+,Females,63.5,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,14+,Persons,14.5,Per cent,,
+2016,Qld,Tobacco,Smoking status,Weekly,14+,Persons,1.4,Per cent,,
+2016,Qld,Tobacco,Smoking status,Less than weekly,14+,Persons,1.3,Per cent,,
+2016,Qld,Tobacco,Smoking status,Ex-smoker,14+,Persons,24.7,Per cent,,
+2016,Qld,Tobacco,Smoking status,Never smoked,14+,Persons,58.1,Per cent,,
+2016,WA,Tobacco,Smoking status,Daily,14+,Males,12.1,Per cent,,#
+2016,WA,Tobacco,Smoking status,Weekly,14+,Males,2.1,Per cent,,
+2016,WA,Tobacco,Smoking status,Less than weekly,14+,Males,1.6,Per cent,,*
+2016,WA,Tobacco,Smoking status,Ex-smoker,14+,Males,24,Per cent,,#
+2016,WA,Tobacco,Smoking status,Never smoked,14+,Males,60.2,Per cent,,#
+2016,WA,Tobacco,Smoking status,Daily,14+,Females,10.8,Per cent,,
+2016,WA,Tobacco,Smoking status,Weekly,14+,Females,1,Per cent,,*
+2016,WA,Tobacco,Smoking status,Less than weekly,14+,Females,1.7,Per cent,,*
+2016,WA,Tobacco,Smoking status,Ex-smoker,14+,Females,20.9,Per cent,,
+2016,WA,Tobacco,Smoking status,Never smoked,14+,Females,65.7,Per cent,,
+2016,WA,Tobacco,Smoking status,Daily,14+,Persons,11.5,Per cent,,
+2016,WA,Tobacco,Smoking status,Weekly,14+,Persons,1.5,Per cent,,
+2016,WA,Tobacco,Smoking status,Less than weekly,14+,Persons,1.7,Per cent,,
+2016,WA,Tobacco,Smoking status,Ex-smoker,14+,Persons,22.4,Per cent,,#
+2016,WA,Tobacco,Smoking status,Never smoked,14+,Persons,62.9,Per cent,,#
+2016,SA,Tobacco,Smoking status,Daily,14+,Males,12.3,Per cent,,
+2016,SA,Tobacco,Smoking status,Weekly,14+,Males,1.7,Per cent,,*
+2016,SA,Tobacco,Smoking status,Less than weekly,14+,Males,1.6,Per cent,,*
+2016,SA,Tobacco,Smoking status,Ex-smoker,14+,Males,25.3,Per cent,,
+2016,SA,Tobacco,Smoking status,Never smoked,14+,Males,59.2,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,14+,Females,9.4,Per cent,,#
+2016,SA,Tobacco,Smoking status,Weekly,14+,Females,0.9,Per cent,,*
+2016,SA,Tobacco,Smoking status,Less than weekly,14+,Females,0.8,Per cent,,*
+2016,SA,Tobacco,Smoking status,Ex-smoker,14+,Females,22.3,Per cent,,
+2016,SA,Tobacco,Smoking status,Never smoked,14+,Females,66.7,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,14+,Persons,10.8,Per cent,,
+2016,SA,Tobacco,Smoking status,Weekly,14+,Persons,1.3,Per cent,,
+2016,SA,Tobacco,Smoking status,Less than weekly,14+,Persons,1.2,Per cent,,
+2016,SA,Tobacco,Smoking status,Ex-smoker,14+,Persons,23.8,Per cent,,
+2016,SA,Tobacco,Smoking status,Never smoked,14+,Persons,62.9,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,14+,Males,17.7,Per cent,,
+2016,Tas,Tobacco,Smoking status,Weekly,14+,Males,2.4,Per cent,,**
+2016,Tas,Tobacco,Smoking status,Less than weekly,14+,Males,1.3,Per cent,,*
+2016,Tas,Tobacco,Smoking status,Ex-smoker,14+,Males,26.4,Per cent,,
+2016,Tas,Tobacco,Smoking status,Never smoked,14+,Males,52.1,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,14+,Females,14.4,Per cent,,
+2016,Tas,Tobacco,Smoking status,Weekly,14+,Females,0.5,Per cent,,**
+2016,Tas,Tobacco,Smoking status,Less than weekly,14+,Females,1.3,Per cent,,*
+2016,Tas,Tobacco,Smoking status,Ex-smoker,14+,Females,24,Per cent,,
+2016,Tas,Tobacco,Smoking status,Never smoked,14+,Females,59.8,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,14+,Persons,16,Per cent,,
+2016,Tas,Tobacco,Smoking status,Weekly,14+,Persons,1.4,Per cent,,*
+2016,Tas,Tobacco,Smoking status,Less than weekly,14+,Persons,1.3,Per cent,,*
+2016,Tas,Tobacco,Smoking status,Ex-smoker,14+,Persons,25.2,Per cent,,
+2016,Tas,Tobacco,Smoking status,Never smoked,14+,Persons,56,Per cent,,
+2016,ACT,Tobacco,Smoking status,Daily,14+,Males,10.4,Per cent,,
+2016,ACT,Tobacco,Smoking status,Weekly,14+,Males,1.5,Per cent,,*
+2016,ACT,Tobacco,Smoking status,Less than weekly,14+,Males,1.3,Per cent,,*
+2016,ACT,Tobacco,Smoking status,Ex-smoker,14+,Males,24.3,Per cent,,
+2016,ACT,Tobacco,Smoking status,Never smoked,14+,Males,62.5,Per cent,,
+2016,ACT,Tobacco,Smoking status,Daily,14+,Females,8.7,Per cent,,
+2016,ACT,Tobacco,Smoking status,Weekly,14+,Females,,Per cent,,n.p.
+2016,ACT,Tobacco,Smoking status,Less than weekly,14+,Females,1.2,Per cent,,**
+2016,ACT,Tobacco,Smoking status,Ex-smoker,14+,Females,21.4,Per cent,,
+2016,ACT,Tobacco,Smoking status,Never smoked,14+,Females,68.5,Per cent,,
+2016,ACT,Tobacco,Smoking status,Daily,14+,Persons,9.5,Per cent,,
+2016,ACT,Tobacco,Smoking status,Weekly,14+,Persons,0.8,Per cent,,*
+2016,ACT,Tobacco,Smoking status,Less than weekly,14+,Persons,1.2,Per cent,,*
+2016,ACT,Tobacco,Smoking status,Ex-smoker,14+,Persons,22.8,Per cent,,
+2016,ACT,Tobacco,Smoking status,Never smoked,14+,Persons,65.5,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,14+,Males,18.6,Per cent,,
+2016,NT,Tobacco,Smoking status,Weekly,14+,Males,3.6,Per cent,,*
+2016,NT,Tobacco,Smoking status,Less than weekly,14+,Males,1.1,Per cent,,*
+2016,NT,Tobacco,Smoking status,Ex-smoker,14+,Males,24.1,Per cent,,
+2016,NT,Tobacco,Smoking status,Never smoked,14+,Males,52.6,Per cent,,#
+2016,NT,Tobacco,Smoking status,Daily,14+,Females,15.7,Per cent,,
+2016,NT,Tobacco,Smoking status,Weekly,14+,Females,1.2,Per cent,,*
+2016,NT,Tobacco,Smoking status,Less than weekly,14+,Females,1.4,Per cent,,*
+2016,NT,Tobacco,Smoking status,Ex-smoker,14+,Females,23.6,Per cent,,
+2016,NT,Tobacco,Smoking status,Never smoked,14+,Females,58.2,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,14+,Persons,17.2,Per cent,,
+2016,NT,Tobacco,Smoking status,Weekly,14+,Persons,2.5,Per cent,,*
+2016,NT,Tobacco,Smoking status,Less than weekly,14+,Persons,1.2,Per cent,,
+2016,NT,Tobacco,Smoking status,Ex-smoker,14+,Persons,23.9,Per cent,,
+2016,NT,Tobacco,Smoking status,Never smoked,14+,Persons,55.2,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,14+,Males,13.8,Per cent,,
+2016,Australia,Tobacco,Smoking status,Weekly,14+,Males,1.6,Per cent,,
+2016,Australia,Tobacco,Smoking status,Less than weekly,14+,Males,1.6,Per cent,,
+2016,Australia,Tobacco,Smoking status,Ex-smoker,14+,Males,24.1,Per cent,,#
+2016,Australia,Tobacco,Smoking status,Never smoked,14+,Males,58.8,Per cent,,#
+2016,Australia,Tobacco,Smoking status,Daily,14+,Females,10.7,Per cent,,
+2016,Australia,Tobacco,Smoking status,Weekly,14+,Females,1.1,Per cent,,
+2016,Australia,Tobacco,Smoking status,Less than weekly,14+,Females,1.1,Per cent,,
+2016,Australia,Tobacco,Smoking status,Ex-smoker,14+,Females,21.6,Per cent,,
+2016,Australia,Tobacco,Smoking status,Never smoked,14+,Females,65.6,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,14+,Persons,12.2,Per cent,,
+2016,Australia,Tobacco,Smoking status,Weekly,14+,Persons,1.3,Per cent,,
+2016,Australia,Tobacco,Smoking status,Less than weekly,14+,Persons,1.4,Per cent,,
+2016,Australia,Tobacco,Smoking status,Ex-smoker,14+,Persons,22.8,Per cent,,#
+2016,Australia,Tobacco,Smoking status,Never smoked,14+,Persons,62.3,Per cent,,#
+2010,NSW,Tobacco,Smoking status,Daily,60+,Persons,8.9,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,75+,Persons,5,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,12+,Persons,13.8,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,60+,Persons,8.8,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,75+,Persons,3.3,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,12+,Persons,11.4,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,60+,Persons,7.5,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,75+,Persons,4.4,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,12+,Persons,11.2,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,60+,Persons,9.2,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,75+,Persons,3,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,12+,Persons,14.4,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,60+,Persons,8.1,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,75+,Persons,5.8,Per cent,,*
+2013,VIC,Tobacco,Smoking status,Daily,12+,Persons,11.9,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,60+,Persons,8.2,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,75+,Persons,4.7,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,12+,Persons,11.4,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,60+,Persons,9.4,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,75+,Persons,4.6,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,12+,Persons,16.2,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,60+,Persons,9.5,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,75+,Persons,5.1,Per cent,,*
+2013,Qld,Tobacco,Smoking status,Daily,12+,Persons,14.6,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,60+,Persons,9.1,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,75+,Persons,4.4,Per cent,,*
+2016,Qld,Tobacco,Smoking status,Daily,12+,Persons,14.1,Per cent,,
+2010,WA,Tobacco,Smoking status,Daily,60+,Persons,9.2,Per cent,,
+2010,WA,Tobacco,Smoking status,Daily,75+,Persons,3.9,Per cent,,*
+2010,WA,Tobacco,Smoking status,Daily,12+,Persons,15.1,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,60+,Persons,7.8,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,75+,Persons,3.5,Per cent,,*
+2013,WA,Tobacco,Smoking status,Daily,12+,Persons,12,Per cent,,
+2016,WA,Tobacco,Smoking status,Daily,60+,Persons,8.8,Per cent,,
+2016,WA,Tobacco,Smoking status,Daily,75+,Persons,4.5,Per cent,,*
+2016,WA,Tobacco,Smoking status,Daily,12+,Persons,11.1,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,60+,Persons,8.5,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,75+,Persons,2.8,Per cent,,*
+2010,SA,Tobacco,Smoking status,Daily,12+,Persons,14.6,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,60+,Persons,9,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,75+,Persons,3.8,Per cent,,*
+2013,SA,Tobacco,Smoking status,Daily,12+,Persons,12.5,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,60+,Persons,6.6,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,75+,Persons,4.5,Per cent,,*
+2016,SA,Tobacco,Smoking status,Daily,12+,Persons,10.5,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,60+,Persons,9.3,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,75+,Persons,8.3,Per cent,,*
+2010,Tas,Tobacco,Smoking status,Daily,12+,Persons,15.4,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,60+,Persons,10.8,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,75+,Persons,6.3,Per cent,,**
+2013,Tas,Tobacco,Smoking status,Daily,12+,Persons,15.6,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,60+,Persons,12.8,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,75+,Persons,4.2,Per cent,,*
+2016,Tas,Tobacco,Smoking status,Daily,12+,Persons,15.6,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,60+,Persons,8.3,Per cent,,!
+2010,ACT,Tobacco,Smoking status,Daily,75+,Persons,6.4,Per cent,,*!
+2010,ACT,Tobacco,Smoking status,Daily,12+,Persons,10.7,Per cent,,!
+2013,ACT,Tobacco,Smoking status,Daily,60+,Persons,8.2,Per cent,,!
+2013,ACT,Tobacco,Smoking status,Daily,75+,Persons,6.4,Per cent,,*!
+2013,ACT,Tobacco,Smoking status,Daily,12+,Persons,9.4,Per cent,,!
+2016,ACT,Tobacco,Smoking status,Daily,60+,Persons,7.3,Per cent,,!
+2016,ACT,Tobacco,Smoking status,Daily,75+,Persons,4.9,Per cent,,*!
+2016,ACT,Tobacco,Smoking status,Daily,12+,Persons,9.3,Per cent,,!
+2010,NT,Tobacco,Smoking status,Daily,60+,Persons,16,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,75+,Persons,,Per cent,,n.p.
+2010,NT,Tobacco,Smoking status,Daily,12+,Persons,21.5,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,60+,Persons,15.5,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,75+,Persons,13.8,Per cent,,*
+2013,NT,Tobacco,Smoking status,Daily,12+,Persons,20.6,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,60+,Persons,13.5,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,75+,Persons,6.6,Per cent,,*
+2016,NT,Tobacco,Smoking status,Daily,12+,Persons,16.7,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,60+,Persons,9.1,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,75+,Persons,4.2,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,12+,Persons,14.7,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,60+,Persons,8.8,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,75+,Persons,4.4,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,12+,Persons,12.4,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,60+,Persons,8.2,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,75+,Persons,4.5,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,12+,Persons,11.9,Per cent,,
+2013,NT,Tobacco,Smoking status,Never smoked,14+,Persons,50.1,Per cent,,
+2013,NT,Tobacco,Smoking status,Less than weekly,14+,Persons,1.4,Per cent,,*
+2013,NT,Tobacco,Smoking status,Daily,14+,Persons,21.3,Per cent,,
+2013,NT,Tobacco,Smoking status,Ex-smoker,14+,Persons,25.7,Per cent,,
+2013,NT,Tobacco,Smoking status,Weekly,14+,Persons,1.5,Per cent,,*
+2001,NSW,Tobacco,Smoking status,Daily,14+,Persons,18,Per cent,,
+1998,Tas,Tobacco,Smoking status,Daily,14+,Persons,24.4,Per cent,,
+1998,WA,Tobacco,Smoking status,Daily,14+,Persons,22.6,Per cent,,
+2001,ACT,Tobacco,Smoking status,Daily,14+,Persons,18.4,Per cent,,
+2004,Tas,Tobacco,Smoking status,Daily,14+,Persons,21.6,Per cent,,
+2004,NT,Tobacco,Smoking status,Daily,14+,Persons,27.4,Per cent,,
+2004,ACT,Tobacco,Smoking status,Daily,14+,Persons,16.2,Per cent,,
+1998,VIC,Tobacco,Smoking status,Daily,14+,Persons,23.4,Per cent,,
+1998,Qld,Tobacco,Smoking status,Daily,14+,Persons,24.4,Per cent,,
+2007,NSW,Tobacco,Smoking status,Daily,14+,Persons,16.3,Per cent,,
+2001,NT,Tobacco,Smoking status,Daily,14+,Persons,27.9,Per cent,,
+2001,Qld,Tobacco,Smoking status,Daily,14+,Persons,21,Per cent,,
+1998,Australia,Tobacco,Smoking status,Daily,14+,Persons,21.8,Per cent,,
+2007,NT,Tobacco,Smoking status,Daily,14+,Persons,25.3,Per cent,,
+1998,NT,Tobacco,Smoking status,Daily,14+,Persons,30.9,Per cent,,
+2001,Australia,Tobacco,Smoking status,Daily,14+,Persons,19.4,Per cent,,
+2007,Qld,Tobacco,Smoking status,Daily,14+,Persons,17.2,Per cent,,
+2004,VIC,Tobacco,Smoking status,Daily,14+,Persons,17.5,Per cent,,
+2004,NSW,Tobacco,Smoking status,Daily,14+,Persons,16.5,Per cent,,
+2007,ACT,Tobacco,Smoking status,Daily,14+,Persons,14.7,Per cent,,
+2007,Australia,Tobacco,Smoking status,Daily,14+,Persons,16.6,Per cent,,
+2004,Australia,Tobacco,Smoking status,Daily,14+,Persons,17.5,Per cent,,
+2001,VIC,Tobacco,Smoking status,Daily,14+,Persons,19.2,Per cent,,
+2004,Qld,Tobacco,Smoking status,Daily,14+,Persons,19.8,Per cent,,
+2007,VIC,Tobacco,Smoking status,Daily,14+,Persons,16.5,Per cent,,
+2007,SA,Tobacco,Smoking status,Daily,14+,Persons,16.5,Per cent,,
+1998,SA,Tobacco,Smoking status,Daily,14+,Persons,19.3,Per cent,,
+2001,WA,Tobacco,Smoking status,Daily,14+,Persons,20,Per cent,,
+2007,WA,Tobacco,Smoking status,Daily,14+,Persons,14.8,Per cent,,
+2007,Tas,Tobacco,Smoking status,Daily,14+,Persons,22.6,Per cent,,
+1998,NSW,Tobacco,Smoking status,Daily,14+,Persons,21.2,Per cent,,
+2001,SA,Tobacco,Smoking status,Daily,14+,Persons,20.1,Per cent,,
+2004,WA,Tobacco,Smoking status,Daily,14+,Persons,15.6,Per cent,,
+2001,Tas,Tobacco,Smoking status,Daily,14+,Persons,20.6,Per cent,,
+1998,ACT,Tobacco,Smoking status,Daily,14+,Persons,22.5,Per cent,,
+2004,SA,Tobacco,Smoking status,Daily,14+,Persons,16.5,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,14+,Males,23.8,Per cent,,
+2013,NT,Tobacco,Smoking status,Weekly,14+,Females,0.7,Per cent,,*
+2013,NT,Tobacco,Smoking status,Less than weekly,14+,Males,1.2,Per cent,,*
+2013,NT,Tobacco,Smoking status,Daily,14+,Females,18.5,Per cent,,
+2013,NT,Tobacco,Smoking status,Never smoked,14+,Females,55.3,Per cent,,
+2013,NT,Tobacco,Smoking status,Never smoked,14+,Males,45.4,Per cent,,
+2013,NT,Tobacco,Smoking status,Less than weekly,14+,Females,1.5,Per cent,,*
+2013,NT,Tobacco,Smoking status,Ex-smoker,14+,Females,23.9,Per cent,,
+2013,NT,Tobacco,Smoking status,Weekly,14+,Males,2.3,Per cent,,*
+2013,NT,Tobacco,Smoking status,Ex-smoker,14+,Males,27.2,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,30 to 39,Persons,12.3,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,30 to 39,Persons,17.6,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,65 to 74,Persons,8.5,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,65 to 74,Persons,10.4,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,30 to 39,Persons,20.6,Per cent,,
+2016,ACT,Tobacco,Smoking status,Daily,25 to 34,Persons,11,Per cent,,*!
+2016,VIC,Tobacco,Smoking status,Daily,55 to 64,Persons,14.8,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,12 to 17,Persons,2.1,Per cent,,**
+2016,SA,Tobacco,Smoking status,Daily,40 to 49,Persons,17.7,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,14 to 19,Persons,6.7,Per cent,,*!
+2010,Australia,Tobacco,Smoking status,Daily,30 to 39,Persons,18.5,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,30 to 39,Persons,14,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,35 to 44,Persons,12.6,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,40 to 49,Persons,20.3,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,14 to 19,Persons,6.4,Per cent,,*
+2010,ACT,Tobacco,Smoking status,Daily,30 to 39,Persons,10,Per cent,,!
+2016,Australia,Tobacco,Smoking status,Daily,14 to 19,Persons,3,Per cent,,#
+2010,NSW,Tobacco,Smoking status,Daily,50 to 59,Persons,15.5,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,25 to 34,Persons,12,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,45 to 54,Persons,18.6,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,65 to 74,Persons,9.7,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,20 to 29,Persons,16.1,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,14 to 19,Persons,7,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,50 to 59,Persons,14.3,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,14 to 19,Persons,8,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,25 to 34,Persons,11.1,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,45 to 54,Persons,23.1,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,40 to 49,Persons,18.5,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,55 to 64,Persons,14.1,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,12 to 17,Persons,3.4,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,25 to 34,Persons,14.4,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,18 to 24,Persons,17.9,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,45 to 54,Persons,17.6,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,40 to 49,Persons,19.5,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,40 to 49,Persons,21,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,55 to 64,Persons,11.5,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,40 to 49,Persons,19.1,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,65 to 74,Persons,9.6,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,40 to 49,Persons,16.2,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,45 to 54,Persons,16.6,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,50 to 59,Persons,18.5,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,65 to 74,Persons,7.7,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,50 to 59,Persons,13.2,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,14 to 19,Persons,9.9,Per cent,,*
+2013,SA,Tobacco,Smoking status,Daily,25 to 34,Persons,13.3,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,25 to 34,Persons,18.5,Per cent,,
+2010,WA,Tobacco,Smoking status,Daily,50 to 59,Persons,19.8,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,12 to 17,Persons,,Per cent,,n.p.!
+2010,NSW,Tobacco,Smoking status,Daily,18 to 24,Persons,16.5,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,55 to 64,Persons,26.3,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,55 to 64,Persons,18,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,35 to 44,Persons,14.4,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,40 to 49,Persons,14.2,Per cent,,
+2010,WA,Tobacco,Smoking status,Daily,14 to 19,Persons,6.9,Per cent,,*
+2016,ACT,Tobacco,Smoking status,Daily,20 to 29,Persons,12,Per cent,,*!
+2010,Qld,Tobacco,Smoking status,Daily,40 to 49,Persons,21.5,Per cent,,
+2016,ACT,Tobacco,Smoking status,Daily,45 to 54,Persons,12.4,Per cent,,!
+2016,VIC,Tobacco,Smoking status,Daily,40 to 49,Persons,18.2,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,20 to 29,Persons,25.7,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,30 to 39,Persons,13.7,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,14 to 19,Persons,3,Per cent,,**
+2016,WA,Tobacco,Smoking status,Daily,20 to 29,Persons,9.2,Per cent,,#
+2016,Qld,Tobacco,Smoking status,Daily,55 to 64,Persons,13.7,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,65 to 74,Persons,25,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,55 to 64,Persons,11,Per cent,,*!
+2016,WA,Tobacco,Smoking status,Daily,55 to 64,Persons,14.4,Per cent,,
+2016,WA,Tobacco,Smoking status,Daily,35 to 44,Persons,15.5,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,20 to 29,Persons,18.9,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,55 to 64,Persons,21.8,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,35 to 44,Persons,16.4,Per cent,,
+2010,WA,Tobacco,Smoking status,Daily,45 to 54,Persons,21,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,18 to 24,Persons,22.9,Per cent,,*
+2010,Tas,Tobacco,Smoking status,Daily,65 to 74,Persons,7.5,Per cent,,*
+2016,WA,Tobacco,Smoking status,Daily,18 to 24,Persons,6.4,Per cent,,*#
+2013,WA,Tobacco,Smoking status,Daily,35 to 44,Persons,16.6,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,25 to 34,Persons,19.9,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,25 to 34,Persons,14.8,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,40 to 49,Persons,19.8,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,20 to 29,Persons,15.2,Per cent,,
+2010,WA,Tobacco,Smoking status,Daily,12 to 17,Persons,2.5,Per cent,,**
+2010,WA,Tobacco,Smoking status,Daily,40 to 49,Persons,19.5,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,40 to 49,Persons,18.5,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,35 to 44,Persons,23.1,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,45 to 54,Persons,16.7,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,50 to 59,Persons,26.1,Per cent,,
+2016,ACT,Tobacco,Smoking status,Daily,18 to 24,Persons,10.1,Per cent,,*!
+2016,NT,Tobacco,Smoking status,Daily,14 to 19,Persons,4.8,Per cent,,**
+2010,Tas,Tobacco,Smoking status,Daily,14 to 19,Persons,4.2,Per cent,,**
+2010,Tas,Tobacco,Smoking status,Daily,12 to 17,Persons,1.9,Per cent,,**
+2016,NSW,Tobacco,Smoking status,Daily,18 to 24,Persons,13.1,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,20 to 29,Persons,18.4,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,12 to 17,Persons,1.8,Per cent,,**
+2016,VIC,Tobacco,Smoking status,Daily,50 to 59,Persons,16,Per cent,,
+2016,ACT,Tobacco,Smoking status,Daily,14 to 19,Persons,4,Per cent,,*!
+2010,SA,Tobacco,Smoking status,Daily,12 to 17,Persons,3.3,Per cent,,*
+2010,NT,Tobacco,Smoking status,Daily,55 to 64,Persons,16.3,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,20 to 29,Persons,18.4,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,18 to 24,Persons,13.4,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,20 to 29,Persons,19.2,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,20 to 29,Persons,13.4,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,25 to 34,Persons,12.6,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,25 to 34,Persons,20.2,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,35 to 44,Persons,26.3,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,14 to 19,Persons,3.6,Per cent,,**!
+2016,NSW,Tobacco,Smoking status,Daily,25 to 34,Persons,15.5,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,40 to 49,Persons,13.8,Per cent,,*!
+2010,SA,Tobacco,Smoking status,Daily,18 to 24,Persons,12.2,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,20 to 29,Persons,20,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,14 to 19,Persons,7.3,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,18 to 24,Persons,9.2,Per cent,,*!
+2013,NSW,Tobacco,Smoking status,Daily,12 to 17,Persons,2.5,Per cent,,*
+2016,VIC,Tobacco,Smoking status,Daily,18 to 24,Persons,8.7,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,50 to 59,Persons,19,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,40 to 49,Persons,22.2,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,45 to 54,Persons,20.8,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,55 to 64,Persons,13.7,Per cent,,
+2016,ACT,Tobacco,Smoking status,Daily,12 to 17,Persons,1.8,Per cent,,**!
+2016,Tas,Tobacco,Smoking status,Daily,55 to 64,Persons,19.1,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,20 to 29,Persons,11.8,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,65 to 74,Persons,10,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,50 to 59,Persons,15.9,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,35 to 44,Persons,13.7,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,25 to 34,Persons,18.2,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,12 to 17,Persons,1.5,Per cent,,*#
+2013,ACT,Tobacco,Smoking status,Daily,30 to 39,Persons,9.1,Per cent,,*!
+2016,Qld,Tobacco,Smoking status,Daily,14 to 19,Persons,4.7,Per cent,,*
+2010,VIC,Tobacco,Smoking status,Daily,14 to 19,Persons,7.9,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,12 to 17,Persons,3.4,Per cent,,*
+2013,SA,Tobacco,Smoking status,Daily,45 to 54,Persons,21.3,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,12 to 17,Persons,,Per cent,,n.p.
+2013,Tas,Tobacco,Smoking status,Daily,40 to 49,Persons,15,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,50 to 59,Persons,15.7,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,20 to 29,Persons,30.1,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,45 to 54,Persons,31.4,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,25 to 34,Persons,16.7,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,25 to 34,Persons,17.5,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,12 to 17,Persons,2.8,Per cent,,*
+2010,Australia,Tobacco,Smoking status,Daily,50 to 59,Persons,17.4,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,35 to 44,Persons,14.9,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,35 to 44,Persons,14.2,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,35 to 44,Persons,12,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,45 to 54,Persons,21.7,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,50 to 59,Persons,24.9,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,25 to 34,Persons,18.8,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,55 to 64,Persons,14.9,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,55 to 64,Persons,13.3,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,20 to 29,Persons,18.4,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,35 to 44,Persons,17.1,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,18 to 24,Persons,15.7,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,45 to 54,Persons,16.2,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,35 to 44,Persons,18.7,Per cent,,
+2016,WA,Tobacco,Smoking status,Daily,30 to 39,Persons,15.5,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,45 to 54,Persons,16.9,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,20 to 29,Persons,17.7,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,20 to 29,Persons,13.2,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,12 to 17,Persons,4,Per cent,,*
+2010,NT,Tobacco,Smoking status,Daily,25 to 34,Persons,24.7,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,14 to 19,Persons,4.9,Per cent,,**
+2010,WA,Tobacco,Smoking status,Daily,55 to 64,Persons,17,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,12 to 17,Persons,0.8,Per cent,,**#
+2016,WA,Tobacco,Smoking status,Daily,45 to 54,Persons,15.9,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,14 to 19,Persons,6.4,Per cent,,*
+2016,Tas,Tobacco,Smoking status,Daily,18 to 24,Persons,21,Per cent,,*
+2010,NT,Tobacco,Smoking status,Daily,35 to 44,Persons,27.7,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,18 to 24,Persons,17.5,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,25 to 34,Persons,19.3,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,20 to 29,Persons,15.6,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,50 to 59,Persons,15,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,55 to 64,Persons,16.6,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,65 to 74,Persons,10.2,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,30 to 39,Persons,21.4,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,20 to 29,Persons,14.9,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,20 to 29,Persons,20.3,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,18 to 24,Persons,17.9,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,30 to 39,Persons,17.3,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,55 to 64,Persons,15,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,45 to 54,Persons,19.4,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,20 to 29,Persons,13.3,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,40 to 49,Persons,18.2,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,18 to 24,Persons,10.7,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,50 to 59,Persons,18.2,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,35 to 44,Persons,23.2,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,35 to 44,Persons,18.5,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,55 to 64,Persons,13.4,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,12 to 17,Persons,3.7,Per cent,,*
+2013,NSW,Tobacco,Smoking status,Daily,30 to 39,Persons,13.4,Per cent,,
+2016,ACT,Tobacco,Smoking status,Daily,65 to 74,Persons,5.9,Per cent,,*!
+2016,ACT,Tobacco,Smoking status,Daily,30 to 39,Persons,8.3,Per cent,,!
+2010,NSW,Tobacco,Smoking status,Daily,14 to 19,Persons,6.5,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,25 to 34,Persons,24,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,18 to 24,Persons,14.5,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,45 to 54,Persons,12.5,Per cent,,!
+2016,Qld,Tobacco,Smoking status,Daily,30 to 39,Persons,18.6,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,20 to 29,Persons,9.7,Per cent,,*!
+2013,WA,Tobacco,Smoking status,Daily,55 to 64,Persons,11.6,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,12 to 17,Persons,,Per cent,,n.p.
+2013,NSW,Tobacco,Smoking status,Daily,50 to 59,Persons,14.5,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,45 to 54,Persons,19.6,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,30 to 39,Persons,27.6,Per cent,,
+2010,SA,Tobacco,Smoking status,Daily,40 to 49,Persons,22.9,Per cent,,
+2016,ACT,Tobacco,Smoking status,Daily,55 to 64,Persons,9.8,Per cent,,!
+2013,WA,Tobacco,Smoking status,Daily,45 to 54,Persons,15.1,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,14 to 19,Persons,4.9,Per cent,,*
+2016,NT,Tobacco,Smoking status,Daily,25 to 34,Persons,16.9,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,45 to 54,Persons,21.4,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,20 to 29,Persons,15.3,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,30 to 39,Persons,12.9,Per cent,,
+2010,VIC,Tobacco,Smoking status,Daily,50 to 59,Persons,17.4,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,18 to 24,Persons,12.1,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,55 to 64,Persons,15.2,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,40 to 49,Persons,13.3,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,65 to 74,Persons,10.5,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,65 to 74,Persons,13.7,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,65 to 74,Persons,5.4,Per cent,,#
+2013,NSW,Tobacco,Smoking status,Daily,35 to 44,Persons,12.2,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,25 to 34,Persons,13.4,Per cent,,!
+2016,NSW,Tobacco,Smoking status,Daily,40 to 49,Persons,13.8,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,65 to 74,Persons,10.4,Per cent,,*
+2010,Qld,Tobacco,Smoking status,Daily,65 to 74,Persons,9.9,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,12 to 17,Persons,2,Per cent,,**
+2010,WA,Tobacco,Smoking status,Daily,35 to 44,Persons,18.7,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,20 to 29,Persons,25.5,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,12 to 17,Persons,4.4,Per cent,,**
+2016,WA,Tobacco,Smoking status,Daily,40 to 49,Persons,16.6,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,14 to 19,Persons,15,Per cent,,*
+2010,Australia,Tobacco,Smoking status,Daily,14 to 19,Persons,6.9,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,18 to 24,Persons,15.7,Per cent,,*
+2013,Tas,Tobacco,Smoking status,Daily,14 to 19,Persons,9.7,Per cent,,*
+2016,SA,Tobacco,Smoking status,Daily,30 to 39,Persons,10.5,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,65 to 74,Persons,7.7,Per cent,,*!
+2016,NT,Tobacco,Smoking status,Daily,12 to 17,Persons,,Per cent,,n.p.
+2010,SA,Tobacco,Smoking status,Daily,25 to 34,Persons,16.6,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,55 to 64,Persons,8.9,Per cent,,*!
+2010,WA,Tobacco,Smoking status,Daily,18 to 24,Persons,14.4,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,40 to 49,Persons,16.9,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,12 to 17,Persons,2.5,Per cent,,*
+2013,WA,Tobacco,Smoking status,Daily,50 to 59,Persons,11.9,Per cent,,
+2016,WA,Tobacco,Smoking status,Daily,50 to 59,Persons,13.8,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,25 to 34,Persons,13.5,Per cent,,
+2010,NSW,Tobacco,Smoking status,Daily,30 to 39,Persons,16.3,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,18 to 24,Persons,16.4,Per cent,,*!
+2013,Australia,Tobacco,Smoking status,Daily,14 to 19,Persons,7,Per cent,,
+2016,NT,Tobacco,Smoking status,Daily,30 to 39,Persons,15.2,Per cent,,#
+2013,WA,Tobacco,Smoking status,Daily,30 to 39,Persons,12.9,Per cent,,
+2010,Tas,Tobacco,Smoking status,Daily,55 to 64,Persons,14.2,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,18 to 24,Persons,19.7,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,12 to 17,Persons,2.5,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,30 to 39,Persons,15.7,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,65 to 74,Persons,8.4,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,14 to 19,Persons,5.9,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,12 to 17,Persons,3.7,Per cent,,**!
+2016,Australia,Tobacco,Smoking status,Daily,45 to 54,Persons,16,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,50 to 59,Persons,16.5,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,25 to 34,Persons,14.7,Per cent,,
+2016,WA,Tobacco,Smoking status,Daily,25 to 34,Persons,12,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,65 to 74,Persons,8,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,45 to 54,Persons,16.3,Per cent,,
+2010,WA,Tobacco,Smoking status,Daily,65 to 74,Persons,10.6,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,65 to 74,Persons,11.4,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,65 to 74,Persons,10.4,Per cent,,
+2013,Qld,Tobacco,Smoking status,Daily,55 to 64,Persons,13.5,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,45 to 54,Persons,15.4,Per cent,,
+2016,WA,Tobacco,Smoking status,Daily,14 to 19,Persons,0.9,Per cent,,**#
+2010,NT,Tobacco,Smoking status,Daily,40 to 49,Persons,30.7,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,55 to 64,Persons,13.6,Per cent,,
+2013,NT,Tobacco,Smoking status,Daily,12 to 17,Persons,6.2,Per cent,,**
+2016,Qld,Tobacco,Smoking status,Daily,50 to 59,Persons,14.2,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,18 to 24,Persons,15.5,Per cent,,
+2010,WA,Tobacco,Smoking status,Daily,20 to 29,Persons,16.2,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,65 to 74,Persons,7.2,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,14 to 19,Persons,1.8,Per cent,,*#
+2016,ACT,Tobacco,Smoking status,Daily,40 to 49,Persons,12.5,Per cent,,*!
+2010,WA,Tobacco,Smoking status,Daily,25 to 34,Persons,18.2,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,25 to 34,Persons,8.7,Per cent,,*!
+2013,NT,Tobacco,Smoking status,Daily,65 to 74,Persons,15.1,Per cent,,*
+2016,ACT,Tobacco,Smoking status,Daily,50 to 59,Persons,11,Per cent,,!
+2013,ACT,Tobacco,Smoking status,Daily,50 to 59,Persons,10.8,Per cent,,*!
+2013,Australia,Tobacco,Smoking status,Daily,55 to 64,Persons,13.4,Per cent,,
+2010,NT,Tobacco,Smoking status,Daily,30 to 39,Persons,20.9,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,18 to 24,Persons,14.5,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,55 to 64,Persons,12.1,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,35 to 44,Persons,20.1,Per cent,,
+2016,Tas,Tobacco,Smoking status,Daily,35 to 44,Persons,23.8,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,18 to 24,Persons,11.6,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,12 to 17,Persons,6.6,Per cent,,**
+2010,WA,Tobacco,Smoking status,Daily,30 to 39,Persons,19.9,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,40 to 49,Persons,12.7,Per cent,,!
+2010,ACT,Tobacco,Smoking status,Daily,50 to 59,Persons,9.9,Per cent,,*!
+2013,Tas,Tobacco,Smoking status,Daily,50 to 59,Persons,17.9,Per cent,,
+2010,Qld,Tobacco,Smoking status,Daily,30 to 39,Persons,23.2,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,65 to 74,Persons,10.4,Per cent,,
+2016,WA,Tobacco,Smoking status,Daily,65 to 74,Persons,8.9,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,65 to 74,Persons,9,Per cent,,*!
+2016,Australia,Tobacco,Smoking status,Daily,20 to 29,Persons,14.8,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,35 to 44,Persons,17.3,Per cent,,
+2013,NSW,Tobacco,Smoking status,Daily,45 to 54,Persons,15.4,Per cent,,
+2016,Qld,Tobacco,Smoking status,Daily,25 to 34,Persons,19,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,45 to 54,Persons,16.8,Per cent,,
+2016,Australia,Tobacco,Smoking status,Daily,35 to 44,Persons,15,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,35 to 44,Persons,11.1,Per cent,,*!
+2016,NSW,Tobacco,Smoking status,Daily,45 to 54,Persons,15.1,Per cent,,
+2013,VIC,Tobacco,Smoking status,Daily,50 to 59,Persons,15.5,Per cent,,
+2013,WA,Tobacco,Smoking status,Daily,40 to 49,Persons,15.7,Per cent,,
+2010,ACT,Tobacco,Smoking status,Daily,45 to 54,Persons,10.6,Per cent,,*!
+2010,SA,Tobacco,Smoking status,Daily,35 to 44,Persons,20.6,Per cent,,
+2013,SA,Tobacco,Smoking status,Daily,18 to 24,Persons,8.4,Per cent,,*
+2013,Qld,Tobacco,Smoking status,Daily,40 to 49,Persons,21.4,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,20 to 29,Persons,18,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,18 to 24,Persons,12.9,Per cent,,
+2016,SA,Tobacco,Smoking status,Daily,50 to 59,Persons,12.6,Per cent,,
+2010,Australia,Tobacco,Smoking status,Daily,65 to 74,Persons,10,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,18 to 24,Persons,31.6,Per cent,,
+2016,ACT,Tobacco,Smoking status,Daily,35 to 44,Persons,10.5,Per cent,,*!
+2010,NSW,Tobacco,Smoking status,Daily,12 to 17,Persons,1.7,Per cent,,*
+2010,ACT,Tobacco,Smoking status,Daily,20 to 29,Persons,16.3,Per cent,,!
+2016,NT,Tobacco,Smoking status,Daily,50 to 59,Persons,27.4,Per cent,,
+2013,Tas,Tobacco,Smoking status,Daily,30 to 39,Persons,14.1,Per cent,,
+2013,ACT,Tobacco,Smoking status,Daily,35 to 44,Persons,12,Per cent,,!
+2016,NSW,Tobacco,Smoking status,Daily,30 to 39,Persons,14.2,Per cent,,
+2013,Australia,Tobacco,Smoking status,Daily,45 to 54,Persons,16.7,Per cent,,
+2016,VIC,Tobacco,Smoking status,Daily,30 to 39,Persons,10.4,Per cent,,
+2016,WA,Tobacco,Smoking status,Daily,12 to 17,Persons,,Per cent,,n.p.
+2013,Qld,Tobacco,Smoking status,Daily,35 to 44,Persons,18.2,Per cent,,
+2016,NSW,Tobacco,Smoking status,Daily,14 to 19,Persons,2.9,Per cent,,*

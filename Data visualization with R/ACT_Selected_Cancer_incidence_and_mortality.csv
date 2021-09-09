@@ -1,0 +1,765 @@
+CancerType,IncidenceMortality,year,sex,NumberOfCases,AgeAdjustedRate,IncidenceMortality_Sex
+All sites C00-C96 excl C44,Mortality,2008,Female,223,136.1,Mortality Female
+All sites C00-C96 excl C44,Mortality,2014,Female,219,110,Mortality Female
+"Lung C33, C34",Incidence,1999,Person,65,28.4,Incidence Person
+Breast C50,Mortality,2009,Female,38,22.8,Mortality Female
+All sites C00-C96 excl C44,Incidence,2004,Person,1307,466.9,Incidence Person
+"Lung C33, C34",Mortality,2006,Male,45,38.7,Mortality Male
+All sites C00-C96 excl C44,Incidence,1987,Female,290,328.6,Incidence Female
+All sites C00-C96 excl C44,Mortality,1996,Female,154,140.1,Mortality Female
+"Lung C33, C34",Mortality,1992,Person,56,34.6,Mortality Person
+"Lung C33, C34",Mortality,2000,Person,64,26.8,Mortality Person
+Melanoma of skin C43,Incidence,2009,Male,78,51.7,Incidence Male
+Prostate C61,Incidence,2003,Male,175,145.6,Incidence Male
+Bowel C18-C20,Incidence,1998,Person,130,57.6,Incidence Person
+"Lung C33, C34",Incidence,1995,Male,34,44.8,Incidence Male
+Bowel C18-C20,Incidence,1999,Male,73,73.4,Incidence Male
+All sites C00-C96 excl C44,Incidence,1995,Person,943,456.4,Incidence Person
+Breast C50,Mortality,2010,Female,43,23.7,Mortality Female
+Breast C50,Incidence,1991,Female,88,85.3,Incidence Female
+"Lung C33, C34",Mortality,2006,Person,82,30,Mortality Person
+"Lung C33, C34",Incidence,2004,Person,77,28.9,Incidence Person
+Melanoma of skin C43,Incidence,2009,Female,36,20.1,Incidence Female
+Melanoma of skin C43,Incidence,1994,Male,41,41.6,Incidence Male
+"Lung C33, C34",Incidence,1990,Female,20,23.1,Incidence Female
+All sites C00-C96 excl C44,Incidence,2015,Female,763,379.5,Incidence Female
+"Lung C33, C34",Mortality,1993,Male,36,44,Mortality Male
+Prostate C61,Mortality,2006,Male,29,25.5,Mortality Male
+All sites C00-C96 excl C44,Incidence,2003,Person,1221,443.9,Incidence Person
+All sites C00-C96 excl C44,Incidence,2011,Male,820,521.2,Incidence Male
+"Lung C33, C34",Mortality,2008,Female,43,26.8,Mortality Female
+Bowel C18-C20,Mortality,1987,Male,23,40.9,Mortality Male
+Bowel C18-C20,Incidence,1989,Female,41,51.8,Incidence Female
+"Lung C33, C34",Mortality,1988,Person,53,43.4,Mortality Person
+Bowel C18-C20,Mortality,2011,Male,28,20.1,Mortality Male
+Melanoma of skin C43,Incidence,1989,Person,69,31.7,Incidence Person
+Prostate C61,Mortality,1989,Male,14,40.2,Mortality Male
+Bowel C18-C20,Mortality,1986,Male,16,34.3,Mortality Male
+Bowel C18-C20,Mortality,1994,Male,33,38.9,Mortality Male
+All sites C00-C96 excl C44,Mortality,1989,Male,146,270,Mortality Male
+Melanoma of skin C43,Incidence,1999,Male,67,52.5,Incidence Male
+Bowel C18-C20,Incidence,2003,Female,65,44,Incidence Female
+Bowel C18-C20,Incidence,2011,Female,81,45.6,Incidence Female
+All sites C00-C96 excl C44,Mortality,1990,Person,303,202.3,Mortality Person
+Bowel C18-C20,Mortality,1997,Person,57,28.1,Mortality Person
+All sites C00-C96 excl C44,Incidence,1998,Male,549,546.5,Incidence Male
+"Lung C33, C34",Incidence,1988,Person,56,41.3,Incidence Person
+All sites C00-C96 excl C44,Mortality,2011,Person,403,122,Mortality Person
+All sites C00-C96 excl C44,Mortality,1997,Male,184,209.9,Mortality Male
+All sites C00-C96 excl C44,Incidence,2013,Female,775,401.3,Incidence Female
+Melanoma of skin C43,Incidence,2007,Male,57,41.3,Incidence Male
+Melanoma of skin C43,Incidence,2006,Person,130,42.4,Incidence Person
+"Lung C33, C34",Incidence,1994,Person,71,38.9,Incidence Person
+All sites C00-C96 excl C44,Mortality,2003,Female,183,130.7,Mortality Female
+Breast C50,Incidence,1999,Female,143,105.5,Incidence Female
+"Lung C33, C34",Incidence,2009,Female,42,25.4,Incidence Female
+All sites C00-C96 excl C44,Mortality,1988,Male,155,278.9,Mortality Male
+Prostate C61,Mortality,1990,Male,13,30.4,Mortality Male
+Prostate C61,Mortality,1992,Male,25,57.1,Mortality Male
+All sites C00-C96 excl C44,Mortality,2012,Female,221,115.2,Mortality Female
+Bowel C18-C20,Incidence,1993,Male,68,81.1,Incidence Male
+Melanoma of skin C43,Incidence,1998,Person,104,38.7,Incidence Person
+All sites C00-C96 excl C44,Mortality,1992,Female,119,131.1,Mortality Female
+All sites C00-C96 excl C44,Incidence,2001,Person,1096,420.6,Incidence Person
+Bowel C18-C20,Mortality,1991,Male,21,29.8,Mortality Male
+All sites C00-C96 excl C44,Mortality,2009,Person,471,153,Mortality Person
+"Lung C33, C34",Mortality,2002,Male,32,33.7,Mortality Male
+Bowel C18-C20,Incidence,2003,Person,145,53.5,Incidence Person
+All sites C00-C96 excl C44,Incidence,1988,Male,321,462.5,Incidence Male
+Bowel C18-C20,Incidence,2007,Person,181,61.5,Incidence Person
+Bowel C18-C20,Mortality,1993,Person,53,32.6,Mortality Person
+Bowel C18-C20,Incidence,2015,Person,188,50,Incidence Person
+Prostate C61,Incidence,2005,Male,202,153.2,Incidence Male
+"Lung C33, C34",Mortality,1995,Male,30,40.8,Mortality Male
+All sites C00-C96 excl C44,Mortality,2013,Female,244,124.7,Mortality Female
+Prostate C61,Incidence,1986,Male,20,61.2,Incidence Male
+Bowel C18-C20,Incidence,2000,Male,82,76.4,Incidence Male
+Prostate C61,Mortality,2001,Male,25,29.7,Mortality Male
+Prostate C61,Incidence,1998,Male,150,168.8,Incidence Male
+All sites C00-C96 excl C44,Mortality,2000,Person,400,177.9,Mortality Person
+Prostate C61,Mortality,2004,Male,28,30.6,Mortality Male
+Melanoma of skin C43,Incidence,2005,Male,99,71.7,Incidence Male
+Bowel C18-C20,Mortality,2001,Person,62,25.6,Mortality Person
+Melanoma of skin C43,Incidence,2007,Person,105,33.1,Incidence Person
+Bowel C18-C20,Mortality,1994,Female,14,14.6,Mortality Female
+"Lung C33, C34",Incidence,1989,Female,19,24.4,Incidence Female
+"Lung C33, C34",Mortality,2001,Female,19,14.5,Mortality Female
+Bowel C18-C20,Mortality,2003,Male,35,31.9,Mortality Male
+"Lung C33, C34",Incidence,2010,Female,48,28.4,Incidence Female
+Melanoma of skin C43,Incidence,1998,Male,62,46.8,Incidence Male
+Prostate C61,Incidence,1995,Male,177,217.3,Incidence Male
+"Lung C33, C34",Incidence,2009,Person,91,29.6,Incidence Person
+Bowel C18-C20,Mortality,2007,Female,25,16,Mortality Female
+"Lung C33, C34",Incidence,1996,Person,80,38.7,Incidence Person
+All sites C00-C96 excl C44,Mortality,1992,Person,281,171.8,Mortality Person
+Bowel C18-C20,Mortality,2013,Male,35,23.2,Mortality Male
+"Lung C33, C34",Mortality,1986,Female,14,18.4,Mortality Female
+All sites C00-C96 excl C44,Mortality,1992,Male,162,228.6,Mortality Male
+All sites C00-C96 excl C44,Incidence,1990,Female,340,361.5,Incidence Female
+Breast C50,Mortality,1987,Female,27,36.1,Mortality Female
+Melanoma of skin C43,Incidence,1990,Person,69,35.3,Incidence Person
+"Lung C33, C34",Mortality,1987,Female,12,17.1,Mortality Female
+Melanoma of skin C43,Incidence,1998,Female,42,29.8,Incidence Female
+Melanoma of skin C43,Incidence,2012,Female,74,38.3,Incidence Female
+"Lung C33, C34",Incidence,1992,Female,21,23.5,Incidence Female
+Melanoma of skin C43,Incidence,2014,Person,163,43.4,Incidence Person
+All sites C00-C96 excl C44,Mortality,1989,Person,255,179.8,Mortality Person
+Bowel C18-C20,Incidence,1986,Person,64,53.1,Incidence Person
+"Lung C33, C34",Incidence,1993,Female,25,27.3,Incidence Female
+Bowel C18-C20,Incidence,2002,Female,80,58.1,Incidence Female
+"Lung C33, C34",Incidence,2010,Male,55,37.9,Incidence Male
+Bowel C18-C20,Mortality,1999,Female,26,21.1,Mortality Female
+"Lung C33, C34",Incidence,2011,Person,96,29.5,Incidence Person
+Melanoma of skin C43,Incidence,2013,Person,158,43,Incidence Person
+Breast C50,Mortality,2008,Female,35,19.8,Mortality Female
+Prostate C61,Incidence,2000,Male,165,162.2,Incidence Male
+Bowel C18-C20,Mortality,1989,Person,46,32.6,Mortality Person
+Melanoma of skin C43,Incidence,1997,Person,119,45.9,Incidence Person
+"Lung C33, C34",Incidence,2003,Male,53,48.2,Incidence Male
+All sites C00-C96 excl C44,Mortality,1993,Male,185,267.2,Mortality Male
+Breast C50,Incidence,1988,Female,82,83.7,Incidence Female
+Prostate C61,Incidence,2010,Male,268,169.7,Incidence Male
+Prostate C61,Mortality,1995,Male,25,36.8,Mortality Male
+Bowel C18-C20,Incidence,2013,Female,88,46.2,Incidence Female
+Bowel C18-C20,Mortality,1992,Female,14,16.7,Mortality Female
+All sites C00-C96 excl C44,Incidence,2008,Female,632,371.6,Incidence Female
+Bowel C18-C20,Mortality,1996,Female,22,21.5,Mortality Female
+Prostate C61,Incidence,1992,Male,73,134.3,Incidence Male
+"Lung C33, C34",Incidence,2012,Person,98,29.3,Incidence Person
+"Lung C33, C34",Incidence,2010,Person,103,32.6,Incidence Person
+All sites C00-C96 excl C44,Mortality,1994,Female,126,127.2,Mortality Female
+Melanoma of skin C43,Incidence,2002,Female,55,35.6,Incidence Female
+Breast C50,Incidence,1996,Female,135,106,Incidence Female
+Bowel C18-C20,Mortality,2005,Female,32,22,Mortality Female
+Prostate C61,Incidence,2011,Male,274,169.6,Incidence Male
+Prostate C61,Mortality,2009,Male,31,26.3,Mortality Male
+Bowel C18-C20,Mortality,1993,Male,25,37,Mortality Male
+Breast C50,Mortality,2007,Female,42,24.5,Mortality Female
+"Lung C33, C34",Mortality,2006,Female,37,23.9,Mortality Female
+Bowel C18-C20,Mortality,2005,Male,23,19.6,Mortality Male
+"Lung C33, C34",Incidence,1998,Female,38,32.1,Incidence Female
+Melanoma of skin C43,Incidence,2003,Female,44,27.3,Incidence Female
+Bowel C18-C20,Incidence,1985,Male,50,79.9,Incidence Male
+All sites C00-C96 excl C44,Mortality,2010,Person,447,142.4,Mortality Person
+All sites C00-C96 excl C44,Mortality,1999,Male,200,221.7,Mortality Male
+Melanoma of skin C43,Incidence,1997,Male,70,56.4,Incidence Male
+All sites C00-C96 excl C44,Incidence,2006,Person,1312,442.7,Incidence Person
+Melanoma of skin C43,Incidence,2003,Male,65,50.3,Incidence Male
+"Lung C33, C34",Incidence,2008,Female,56,34.3,Incidence Female
+"Lung C33, C34",Mortality,1985,Male,22,51.1,Mortality Male
+Bowel C18-C20,Incidence,2001,Male,97,89,Incidence Male
+Bowel C18-C20,Mortality,2000,Person,46,21,Mortality Person
+Bowel C18-C20,Mortality,2006,Person,65,22,Mortality Person
+"Lung C33, C34",Mortality,2004,Person,69,26.6,Mortality Person
+"Lung C33, C34",Mortality,1989,Male,36,65,Mortality Male
+Bowel C18-C20,Mortality,2014,Male,35,21.1,Mortality Male
+"Lung C33, C34",Mortality,1997,Female,29,25.8,Mortality Female
+"Lung C33, C34",Mortality,1999,Person,53,25,Mortality Person
+Bowel C18-C20,Incidence,2009,Person,197,63.3,Incidence Person
+"Lung C33, C34",Mortality,1997,Person,57,27.5,Mortality Person
+All sites C00-C96 excl C44,Mortality,1989,Female,109,129.3,Mortality Female
+Prostate C61,Incidence,2015,Male,239,127.5,Incidence Male
+All sites C00-C96 excl C44,Incidence,1999,Male,554,532.5,Incidence Male
+"Lung C33, C34",Incidence,1986,Person,53,39.3,Incidence Person
+"Lung C33, C34",Mortality,1995,Female,11,10,Mortality Female
+Melanoma of skin C43,Incidence,1992,Person,74,33.2,Incidence Person
+Bowel C18-C20,Mortality,2002,Person,50,20.3,Mortality Person
+Bowel C18-C20,Incidence,1986,Male,29,48.9,Incidence Male
+"Lung C33, C34",Mortality,2002,Female,17,12.9,Mortality Female
+All sites C00-C96 excl C44,Incidence,2005,Person,1352,461.8,Incidence Person
+Bowel C18-C20,Incidence,2001,Female,67,49.3,Incidence Female
+Bowel C18-C20,Mortality,2003,Person,60,24.8,Mortality Person
+"Lung C33, C34",Mortality,2012,Male,39,26.2,Mortality Male
+Melanoma of skin C43,Incidence,1985,Female,33,32.1,Incidence Female
+All sites C00-C96 excl C44,Incidence,1986,Person,556,381.4,Incidence Person
+Bowel C18-C20,Mortality,2012,Person,66,19.9,Mortality Person
+Bowel C18-C20,Incidence,1989,Person,94,62.5,Incidence Person
+"Lung C33, C34",Incidence,1998,Male,42,47.2,Incidence Male
+Bowel C18-C20,Mortality,1995,Male,25,28.3,Mortality Male
+All sites C00-C96 excl C44,Incidence,1988,Person,620,381,Incidence Person
+All sites C00-C96 excl C44,Mortality,1998,Male,185,211.7,Mortality Male
+Bowel C18-C20,Incidence,1991,Female,45,52.8,Incidence Female
+"Lung C33, C34",Incidence,1991,Male,45,65,Incidence Male
+Melanoma of skin C43,Incidence,1987,Female,46,40.6,Incidence Female
+Bowel C18-C20,Incidence,1991,Male,58,71.1,Incidence Male
+"Lung C33, C34",Mortality,2009,Person,72,23.1,Mortality Person
+Prostate C61,Incidence,2012,Male,269,159.9,Incidence Male
+Bowel C18-C20,Incidence,1987,Female,44,59.1,Incidence Female
+"Lung C33, C34",Incidence,2008,Person,109,36,Incidence Person
+Melanoma of skin C43,Incidence,2002,Male,59,41.9,Incidence Male
+Melanoma of skin C43,Incidence,1991,Male,43,42.3,Incidence Male
+Breast C50,Mortality,1990,Female,29,32.8,Mortality Female
+All sites C00-C96 excl C44,Mortality,2002,Male,207,204.6,Mortality Male
+"Lung C33, C34",Incidence,1995,Person,54,29.7,Incidence Person
+"Lung C33, C34",Mortality,1991,Female,18,21.6,Mortality Female
+All sites C00-C96 excl C44,Incidence,1989,Male,303,439.7,Incidence Male
+Melanoma of skin C43,Incidence,2013,Male,95,55.2,Incidence Male
+All sites C00-C96 excl C44,Mortality,2007,Person,482,164.7,Mortality Person
+"Lung C33, C34",Incidence,1989,Male,48,80.4,Incidence Male
+Melanoma of skin C43,Incidence,2008,Female,60,34.3,Incidence Female
+Prostate C61,Incidence,1991,Male,84,153.1,Incidence Male
+"Lung C33, C34",Mortality,2000,Female,29,22.1,Mortality Female
+Melanoma of skin C43,Incidence,1993,Male,39,31.6,Incidence Male
+"Lung C33, C34",Incidence,2015,Male,59,33.6,Incidence Male
+Bowel C18-C20,Incidence,2004,Female,68,47.3,Incidence Female
+"Lung C33, C34",Mortality,2001,Person,60,25.2,Mortality Person
+All sites C00-C96 excl C44,Incidence,2009,Female,711,403.8,Incidence Female
+All sites C00-C96 excl C44,Mortality,1996,Person,369,192.2,Mortality Person
+Melanoma of skin C43,Incidence,1993,Female,43,33.3,Incidence Female
+Breast C50,Incidence,2010,Female,261,144.9,Incidence Female
+Bowel C18-C20,Mortality,1994,Person,47,25.5,Mortality Person
+"Lung C33, C34",Mortality,2009,Male,34,24.4,Mortality Male
+Breast C50,Incidence,2008,Female,207,117.7,Incidence Female
+All sites C00-C96 excl C44,Incidence,2010,Male,803,521.2,Incidence Male
+Melanoma of skin C43,Incidence,1988,Female,40,36.7,Incidence Female
+Bowel C18-C20,Mortality,2004,Person,57,21.7,Mortality Person
+Bowel C18-C20,Mortality,2014,Person,58,16,Mortality Person
+All sites C00-C96 excl C44,Mortality,1986,Male,141,262.8,Mortality Male
+Melanoma of skin C43,Incidence,2015,Female,78,38.9,Incidence Female
+"Lung C33, C34",Incidence,2015,Person,108,28.2,Incidence Person
+Melanoma of skin C43,Incidence,2004,Person,135,46.4,Incidence Person
+Melanoma of skin C43,Incidence,1992,Male,37,38.7,Incidence Male
+Breast C50,Mortality,2012,Female,32,17.2,Mortality Female
+All sites C00-C96 excl C44,Incidence,2007,Female,645,386.3,Incidence Female
+All sites C00-C96 excl C44,Mortality,1995,Male,184,240.9,Mortality Male
+Bowel C18-C20,Incidence,1992,Person,104,62.5,Incidence Person
+All sites C00-C96 excl C44,Mortality,2008,Male,242,188,Mortality Male
+Prostate C61,Mortality,1996,Male,29,46.6,Mortality Male
+Bowel C18-C20,Mortality,1998,Female,22,19.1,Mortality Female
+Bowel C18-C20,Mortality,2008,Male,25,18.8,Mortality Male
+All sites C00-C96 excl C44,Incidence,2000,Male,623,578.3,Incidence Male
+Bowel C18-C20,Mortality,2008,Female,28,16.5,Mortality Female
+Melanoma of skin C43,Incidence,2004,Male,73,54.3,Incidence Male
+Prostate C61,Incidence,2008,Male,311,216.5,Incidence Male
+"Lung C33, C34",Mortality,1996,Male,38,46.7,Mortality Male
+"Lung C33, C34",Incidence,1988,Male,44,77.3,Incidence Male
+Bowel C18-C20,Incidence,2004,Male,92,71.9,Incidence Male
+All sites C00-C96 excl C44,Mortality,2009,Female,231,133.1,Mortality Female
+Breast C50,Incidence,2013,Female,260,134.8,Incidence Female
+Breast C50,Incidence,1990,Female,103,100.4,Incidence Female
+All sites C00-C96 excl C44,Incidence,2010,Person,1523,458.8,Incidence Person
+Bowel C18-C20,Mortality,1992,Person,39,24.4,Mortality Person
+Bowel C18-C20,Incidence,2014,Female,82,42,Incidence Female
+All sites C00-C96 excl C44,Mortality,2009,Male,240,180.2,Mortality Male
+Bowel C18-C20,Mortality,1991,Person,46,32.1,Mortality Person
+"Lung C33, C34",Incidence,1991,Person,64,39.2,Incidence Person
+Bowel C18-C20,Incidence,2014,Person,179,48.4,Incidence Person
+Melanoma of skin C43,Incidence,2014,Male,82,48.4,Incidence Male
+Breast C50,Mortality,1994,Female,28,27.7,Mortality Female
+Bowel C18-C20,Mortality,1996,Male,30,34.7,Mortality Male
+All sites C00-C96 excl C44,Mortality,2001,Person,424,176.2,Mortality Person
+Bowel C18-C20,Incidence,2009,Female,89,52.7,Incidence Female
+All sites C00-C96 excl C44,Incidence,2004,Female,601,393.8,Incidence Female
+Bowel C18-C20,Incidence,2004,Person,160,58.7,Incidence Person
+Melanoma of skin C43,Incidence,2013,Female,63,33,Incidence Female
+All sites C00-C96 excl C44,Mortality,2001,Female,194,143.9,Mortality Female
+"Lung C33, C34",Mortality,2001,Male,41,37.8,Mortality Male
+"Lung C33, C34",Incidence,2014,Male,73,46,Incidence Male
+"Lung C33, C34",Mortality,1990,Person,56,38.1,Mortality Person
+All sites C00-C96 excl C44,Mortality,2002,Female,188,137.7,Mortality Female
+"Lung C33, C34",Mortality,1990,Male,40,63.9,Mortality Male
+Bowel C18-C20,Incidence,1985,Person,94,72.8,Incidence Person
+All sites C00-C96 excl C44,Incidence,2014,Person,1673,447.8,Incidence Person
+All sites C00-C96 excl C44,Mortality,1987,Female,130,178.8,Mortality Female
+Breast C50,Incidence,1997,Female,141,109.6,Incidence Female
+Bowel C18-C20,Mortality,2014,Female,23,11.8,Mortality Female
+All sites C00-C96 excl C44,Mortality,1987,Person,268,204.2,Mortality Person
+Bowel C18-C20,Incidence,2001,Person,164,66.7,Incidence Person
+Breast C50,Incidence,2006,Female,210,126.3,Incidence Female
+Melanoma of skin C43,Incidence,1987,Male,44,39.7,Incidence Male
+Breast C50,Mortality,2011,Female,33,17.8,Mortality Female
+All sites C00-C96 excl C44,Mortality,1995,Female,173,160.3,Mortality Female
+"Lung C33, C34",Incidence,1992,Person,67,42.8,Incidence Person
+Bowel C18-C20,Incidence,1995,Person,105,53.5,Incidence Person
+Melanoma of skin C43,Incidence,1989,Female,35,28.8,Incidence Female
+"Lung C33, C34",Incidence,2012,Male,44,29.5,Incidence Male
+All sites C00-C96 excl C44,Mortality,1998,Female,178,152.6,Mortality Female
+Melanoma of skin C43,Incidence,2001,Person,114,40.2,Incidence Person
+Melanoma of skin C43,Incidence,2005,Person,178,57.8,Incidence Person
+All sites C00-C96 excl C44,Incidence,2007,Male,769,561.7,Incidence Male
+"Lung C33, C34",Incidence,1990,Person,57,37.7,Incidence Person
+All sites C00-C96 excl C44,Incidence,1985,Person,545,393.6,Incidence Person
+Bowel C18-C20,Incidence,1987,Male,52,78.4,Incidence Male
+"Lung C33, C34",Mortality,1987,Male,30,55.3,Mortality Male
+"Lung C33, C34",Mortality,2010,Person,70,23.2,Mortality Person
+All sites C00-C96 excl C44,Incidence,1992,Male,395,540.5,Incidence Male
+Prostate C61,Incidence,1999,Male,146,150.1,Incidence Male
+All sites C00-C96 excl C44,Mortality,1987,Male,138,243,Mortality Male
+All sites C00-C96 excl C44,Incidence,1996,Person,981,450.2,Incidence Person
+Melanoma of skin C43,Incidence,2002,Person,114,38.7,Incidence Person
+Breast C50,Mortality,1986,Female,29,39.3,Mortality Female
+Prostate C61,Incidence,2004,Male,243,195.2,Incidence Male
+"Lung C33, C34",Mortality,1998,Male,37,41.6,Mortality Male
+"Lung C33, C34",Mortality,2014,Male,50,31.8,Mortality Male
+Prostate C61,Mortality,2002,Male,27,35.2,Mortality Male
+"Lung C33, C34",Mortality,1993,Person,49,28.3,Mortality Person
+"Lung C33, C34",Incidence,2007,Male,56,43,Incidence Male
+Melanoma of skin C43,Incidence,1989,Male,34,38.1,Incidence Male
+Breast C50,Incidence,1989,Female,98,99.3,Incidence Female
+"Lung C33, C34",Incidence,1997,Female,33,30.1,Incidence Female
+Breast C50,Mortality,1988,Female,16,21.3,Mortality Female
+Melanoma of skin C43,Incidence,2006,Female,61,37.5,Incidence Female
+All sites C00-C96 excl C44,Mortality,2002,Person,395,162.4,Mortality Person
+Bowel C18-C20,Incidence,1994,Female,59,59.5,Incidence Female
+"Lung C33, C34",Mortality,2011,Male,36,24.6,Mortality Male
+Melanoma of skin C43,Incidence,2010,Person,127,37.6,Incidence Person
+"Lung C33, C34",Incidence,1998,Person,80,38.1,Incidence Person
+Bowel C18-C20,Incidence,1986,Female,35,53.9,Incidence Female
+Bowel C18-C20,Incidence,2006,Female,86,55.6,Incidence Female
+Breast C50,Mortality,1985,Female,22,31,Mortality Female
+All sites C00-C96 excl C44,Mortality,2005,Female,218,145.6,Mortality Female
+"Lung C33, C34",Incidence,1987,Person,63,49.7,Incidence Person
+"Lung C33, C34",Mortality,2009,Female,38,22,Mortality Female
+Prostate C61,Incidence,1985,Male,20,62.9,Incidence Male
+"Lung C33, C34",Mortality,1998,Female,28,24.1,Mortality Female
+All sites C00-C96 excl C44,Mortality,1990,Female,148,176.8,Mortality Female
+All sites C00-C96 excl C44,Mortality,2011,Female,171,94,Mortality Female
+All sites C00-C96 excl C44,Mortality,1998,Person,363,176.6,Mortality Person
+"Lung C33, C34",Mortality,1994,Male,33,44.5,Mortality Male
+"Lung C33, C34",Mortality,1987,Person,42,32.5,Mortality Person
+Bowel C18-C20,Mortality,1999,Male,26,27.8,Mortality Male
+Breast C50,Mortality,1995,Female,39,35.2,Mortality Female
+"Lung C33, C34",Mortality,2013,Person,81,23.3,Mortality Person
+Melanoma of skin C43,Incidence,2009,Person,114,34,Incidence Person
+All sites C00-C96 excl C44,Incidence,2006,Male,700,521.4,Incidence Male
+Breast C50,Incidence,1985,Female,60,76.1,Incidence Female
+"Lung C33, C34",Incidence,1992,Male,46,68.7,Incidence Male
+"Lung C33, C34",Mortality,2010,Female,35,21.7,Mortality Female
+"Lung C33, C34",Mortality,1991,Male,37,54.2,Mortality Male
+Bowel C18-C20,Mortality,1992,Male,25,34.1,Mortality Male
+"Lung C33, C34",Incidence,1985,Male,47,93.3,Incidence Male
+Bowel C18-C20,Incidence,2008,Person,193,64,Incidence Person
+"Lung C33, C34",Incidence,2011,Female,50,28.1,Incidence Female
+"Lung C33, C34",Mortality,1997,Male,28,28.6,Mortality Male
+All sites C00-C96 excl C44,Incidence,2010,Female,720,407,Incidence Female
+Melanoma of skin C43,Incidence,1986,Person,80,39,Incidence Person
+Melanoma of skin C43,Incidence,1986,Male,43,42.7,Incidence Male
+Prostate C61,Incidence,1993,Male,90,132,Incidence Male
+All sites C00-C96 excl C44,Incidence,1993,Female,373,351.2,Incidence Female
+"Lung C33, C34",Mortality,1989,Person,49,35.4,Mortality Person
+Melanoma of skin C43,Incidence,2011,Person,126,36.7,Incidence Person
+"Lung C33, C34",Incidence,1996,Female,36,32.2,Incidence Female
+All sites C00-C96 excl C44,Incidence,2002,Person,1189,443.6,Incidence Person
+Breast C50,Mortality,1992,Female,19,19.1,Mortality Female
+Melanoma of skin C43,Incidence,2015,Person,173,44.9,Incidence Person
+Breast C50,Mortality,2000,Female,39,30,Mortality Female
+Bowel C18-C20,Incidence,1992,Female,42,46.7,Incidence Female
+Bowel C18-C20,Mortality,2013,Female,40,20.2,Mortality Female
+Bowel C18-C20,Incidence,2015,Male,105,61.5,Incidence Male
+Prostate C61,Incidence,2013,Male,271,157.1,Incidence Male
+All sites C00-C96 excl C44,Incidence,2005,Male,714,537.9,Incidence Male
+Bowel C18-C20,Mortality,1998,Male,22,23.3,Mortality Male
+Bowel C18-C20,Incidence,2014,Male,97,55.9,Incidence Male
+Breast C50,Incidence,2015,Female,269,135.5,Incidence Female
+Bowel C18-C20,Mortality,2000,Female,22,17.7,Mortality Female
+"Lung C33, C34",Incidence,2012,Female,54,29.5,Incidence Female
+"Lung C33, C34",Mortality,1988,Male,31,66.5,Mortality Male
+All sites C00-C96 excl C44,Incidence,1986,Female,294,365.8,Incidence Female
+Bowel C18-C20,Incidence,2013,Male,98,59.4,Incidence Male
+Bowel C18-C20,Incidence,2006,Person,185,63.8,Incidence Person
+Bowel C18-C20,Incidence,1999,Person,129,57.7,Incidence Person
+All sites C00-C96 excl C44,Mortality,2008,Person,465,156.7,Mortality Person
+Prostate C61,Incidence,2009,Male,277,177.2,Incidence Male
+"Lung C33, C34",Incidence,1990,Male,37,56.4,Incidence Male
+All sites C00-C96 excl C44,Incidence,2002,Female,593,404.8,Incidence Female
+Breast C50,Incidence,2007,Female,197,113.2,Incidence Female
+Bowel C18-C20,Mortality,2012,Male,26,18.3,Mortality Male
+"Lung C33, C34",Mortality,1991,Person,55,35.1,Mortality Person
+"Lung C33, C34",Mortality,2012,Female,31,16.6,Mortality Female
+All sites C00-C96 excl C44,Mortality,2006,Person,437,156.5,Mortality Person
+Prostate C61,Mortality,1998,Male,22,30.8,Mortality Male
+Prostate C61,Incidence,1997,Male,175,199.5,Incidence Male
+All sites C00-C96 excl C44,Incidence,1998,Female,483,377.9,Incidence Female
+All sites C00-C96 excl C44,Incidence,1994,Person,903,455.7,Incidence Person
+Bowel C18-C20,Incidence,1993,Person,120,69,Incidence Person
+"Lung C33, C34",Incidence,2004,Female,25,17.1,Incidence Female
+All sites C00-C96 excl C44,Mortality,1997,Female,195,171.2,Mortality Female
+Bowel C18-C20,Incidence,2005,Female,79,52.4,Incidence Female
+Bowel C18-C20,Incidence,1996,Female,54,48.4,Incidence Female
+All sites C00-C96 excl C44,Incidence,2013,Male,876,516,Incidence Male
+Bowel C18-C20,Incidence,1993,Female,52,57.4,Incidence Female
+All sites C00-C96 excl C44,Incidence,2009,Person,1520,466.5,Incidence Person
+All sites C00-C96 excl C44,Mortality,2000,Female,186,145.3,Mortality Female
+Prostate C61,Mortality,2000,Male,28,39.2,Mortality Male
+Prostate C61,Mortality,2008,Male,35,29.9,Mortality Male
+"Lung C33, C34",Incidence,2003,Female,30,21.8,Incidence Female
+"Lung C33, C34",Mortality,2007,Male,50,37.5,Mortality Male
+"Lung C33, C34",Incidence,1985,Person,59,48.7,Incidence Person
+Melanoma of skin C43,Incidence,1986,Female,37,35.3,Incidence Female
+Bowel C18-C20,Incidence,2007,Female,93,59.3,Incidence Female
+All sites C00-C96 excl C44,Incidence,2000,Female,565,408.7,Incidence Female
+Bowel C18-C20,Mortality,1993,Female,28,30,Mortality Female
+"Lung C33, C34",Mortality,2011,Person,67,20.9,Mortality Person
+"Lung C33, C34",Mortality,1985,Female,13,18,Mortality Female
+Melanoma of skin C43,Incidence,1994,Female,27,20,Incidence Female
+All sites C00-C96 excl C44,Mortality,1999,Person,391,182.1,Mortality Person
+Bowel C18-C20,Incidence,2010,Person,193,60,Incidence Person
+Bowel C18-C20,Mortality,1988,Female,22,34.3,Mortality Female
+Bowel C18-C20,Incidence,2006,Male,99,73.8,Incidence Male
+Prostate C61,Incidence,1996,Male,166,183.4,Incidence Male
+Bowel C18-C20,Incidence,2005,Person,172,61,Incidence Person
+Breast C50,Mortality,1999,Female,28,21.4,Mortality Female
+Bowel C18-C20,Mortality,2000,Male,24,24.7,Mortality Male
+Bowel C18-C20,Mortality,2010,Person,65,20.9,Mortality Person
+Bowel C18-C20,Mortality,1986,Female,22,32.8,Mortality Female
+Melanoma of skin C43,Incidence,2000,Person,95,34.2,Incidence Person
+Bowel C18-C20,Incidence,2008,Male,106,74.5,Incidence Male
+Bowel C18-C20,Incidence,2011,Male,107,71.3,Incidence Male
+Bowel C18-C20,Incidence,1996,Person,120,57.8,Incidence Person
+Breast C50,Mortality,1998,Female,35,29.5,Mortality Female
+All sites C00-C96 excl C44,Mortality,1988,Person,276,208,Mortality Person
+Prostate C61,Incidence,2006,Male,212,156,Incidence Male
+All sites C00-C96 excl C44,Mortality,2007,Male,279,220.8,Mortality Male
+"Lung C33, C34",Incidence,1995,Female,20,19.6,Incidence Female
+"Lung C33, C34",Incidence,2000,Female,30,23.3,Incidence Female
+All sites C00-C96 excl C44,Mortality,2004,Male,245,218.7,Mortality Male
+"Lung C33, C34",Mortality,1988,Female,22,30.1,Mortality Female
+All sites C00-C96 excl C44,Incidence,2003,Male,649,537.5,Incidence Male
+Prostate C61,Incidence,2001,Male,147,132.1,Incidence Male
+All sites C00-C96 excl C44,Incidence,1998,Person,1032,448,Incidence Person
+"Lung C33, C34",Incidence,2007,Person,107,37,Incidence Person
+Melanoma of skin C43,Incidence,1995,Female,51,41.4,Incidence Female
+All sites C00-C96 excl C44,Mortality,2006,Female,202,130,Mortality Female
+"Lung C33, C34",Incidence,2013,Male,64,41.1,Incidence Male
+Prostate C61,Incidence,1987,Male,18,43.6,Incidence Male
+Bowel C18-C20,Incidence,2000,Person,167,72.3,Incidence Person
+Bowel C18-C20,Mortality,2011,Female,24,12.6,Mortality Female
+Bowel C18-C20,Incidence,1995,Male,62,68.2,Incidence Male
+Breast C50,Mortality,2001,Female,34,24.6,Mortality Female
+"Lung C33, C34",Incidence,1994,Male,46,59,Incidence Male
+Bowel C18-C20,Mortality,2004,Female,22,15.2,Mortality Female
+Melanoma of skin C43,Incidence,1999,Person,113,42.4,Incidence Person
+Prostate C61,Mortality,2010,Male,22,16.8,Mortality Male
+Breast C50,Mortality,1997,Female,39,32.2,Mortality Female
+Bowel C18-C20,Mortality,2006,Male,41,30.9,Mortality Male
+Prostate C61,Mortality,2012,Male,40,28.3,Mortality Male
+Melanoma of skin C43,Incidence,2003,Person,109,37.7,Incidence Person
+All sites C00-C96 excl C44,Incidence,2008,Male,808,563,Incidence Male
+Bowel C18-C20,Mortality,1987,Person,45,36.2,Mortality Person
+All sites C00-C96 excl C44,Mortality,1985,Female,110,156.5,Mortality Female
+Bowel C18-C20,Mortality,2009,Female,33,18.8,Mortality Female
+"Lung C33, C34",Incidence,2001,Male,43,39.4,Incidence Male
+Breast C50,Incidence,2004,Female,209,135,Incidence Female
+"Lung C33, C34",Incidence,2006,Male,51,41.1,Incidence Male
+"Lung C33, C34",Incidence,1987,Female,22,32,Incidence Female
+Bowel C18-C20,Incidence,2008,Female,87,54.2,Incidence Female
+"Lung C33, C34",Incidence,1994,Female,25,24.3,Incidence Female
+"Lung C33, C34",Mortality,2003,Person,59,23.5,Mortality Person
+"Lung C33, C34",Mortality,2014,Person,86,24.3,Mortality Person
+All sites C00-C96 excl C44,Incidence,1999,Person,1024,431.4,Incidence Person
+Bowel C18-C20,Incidence,2010,Male,93,63.1,Incidence Male
+Bowel C18-C20,Mortality,2013,Person,75,21.4,Mortality Person
+Melanoma of skin C43,Incidence,2000,Female,40,26.5,Incidence Female
+Breast C50,Incidence,2003,Female,199,127.3,Incidence Female
+Prostate C61,Incidence,1994,Male,144,196.4,Incidence Male
+All sites C00-C96 excl C44,Incidence,1995,Male,512,585.2,Incidence Male
+Melanoma of skin C43,Incidence,1985,Person,66,31.7,Incidence Person
+"Lung C33, C34",Incidence,1987,Male,41,78.6,Incidence Male
+Melanoma of skin C43,Incidence,1996,Male,51,44.3,Incidence Male
+"Lung C33, C34",Incidence,1996,Male,44,47.4,Incidence Male
+All sites C00-C96 excl C44,Mortality,2014,Person,491,136.4,Mortality Person
+"Lung C33, C34",Incidence,2014,Female,51,27,Incidence Female
+All sites C00-C96 excl C44,Incidence,2002,Male,596,501.8,Incidence Male
+All sites C00-C96 excl C44,Mortality,1990,Male,155,244,Mortality Male
+Melanoma of skin C43,Incidence,1995,Male,54,52.8,Incidence Male
+Breast C50,Incidence,2009,Female,265,149.3,Incidence Female
+Bowel C18-C20,Mortality,1986,Person,38,32,Mortality Person
+"Lung C33, C34",Mortality,2005,Male,29,26,Mortality Male
+Breast C50,Incidence,2014,Female,248,124.8,Incidence Female
+"Lung C33, C34",Incidence,2013,Female,54,28,Incidence Female
+Bowel C18-C20,Incidence,2005,Male,93,70.8,Incidence Male
+All sites C00-C96 excl C44,Incidence,2001,Male,563,492.6,Incidence Male
+All sites C00-C96 excl C44,Mortality,1986,Female,130,184.1,Mortality Female
+"Lung C33, C34",Incidence,1988,Female,12,14.8,Incidence Female
+Prostate C61,Mortality,1993,Male,21,39,Mortality Male
+"Lung C33, C34",Mortality,1998,Person,65,32.2,Mortality Person
+Breast C50,Incidence,1998,Female,169,125.7,Incidence Female
+Breast C50,Incidence,2001,Female,179,119.4,Incidence Female
+Melanoma of skin C43,Incidence,2010,Male,84,54.1,Incidence Male
+All sites C00-C96 excl C44,Incidence,1991,Person,723,414.3,Incidence Person
+Breast C50,Mortality,2005,Female,41,26.5,Mortality Female
+"Lung C33, C34",Mortality,2012,Person,70,21,Mortality Person
+Bowel C18-C20,Incidence,1987,Person,96,69.1,Incidence Person
+All sites C00-C96 excl C44,Incidence,1996,Female,441,364.7,Incidence Female
+Bowel C18-C20,Mortality,2002,Male,29,27,Mortality Male
+Prostate C61,Incidence,2007,Male,256,186.2,Incidence Male
+"Lung C33, C34",Incidence,1997,Male,35,39.1,Incidence Male
+All sites C00-C96 excl C44,Mortality,2003,Person,418,166.4,Mortality Person
+All sites C00-C96 excl C44,Incidence,1986,Male,262,409,Incidence Male
+Melanoma of skin C43,Incidence,1996,Person,91,36.2,Incidence Person
+Prostate C61,Mortality,2005,Male,30,29.8,Mortality Male
+Prostate C61,Mortality,1994,Male,19,30.9,Mortality Male
+"Lung C33, C34",Mortality,2007,Person,81,27.5,Mortality Person
+Bowel C18-C20,Incidence,2012,Male,112,70.4,Incidence Male
+Bowel C18-C20,Incidence,2012,Person,230,67.1,Incidence Person
+Bowel C18-C20,Mortality,2006,Female,24,15.4,Mortality Female
+"Lung C33, C34",Mortality,1986,Male,45,79.8,Mortality Male
+Bowel C18-C20,Incidence,2015,Female,83,40.7,Incidence Female
+All sites C00-C96 excl C44,Mortality,2004,Female,166,112.5,Mortality Female
+All sites C00-C96 excl C44,Incidence,1994,Female,430,388.7,Incidence Female
+Bowel C18-C20,Mortality,2012,Female,40,21.3,Mortality Female
+"Lung C33, C34",Mortality,2005,Female,26,17.2,Mortality Female
+"Lung C33, C34",Incidence,2002,Male,47,44.7,Incidence Male
+"Lung C33, C34",Incidence,1993,Person,66,37.3,Incidence Person
+Bowel C18-C20,Mortality,1997,Female,25,22.8,Mortality Female
+Bowel C18-C20,Mortality,2007,Person,68,24,Mortality Person
+All sites C00-C96 excl C44,Incidence,2004,Male,706,560.7,Incidence Male
+Bowel C18-C20,Mortality,1989,Male,27,46.6,Mortality Male
+All sites C00-C96 excl C44,Mortality,2010,Female,214,124,Mortality Female
+All sites C00-C96 excl C44,Mortality,2011,Male,232,159.8,Mortality Male
+Breast C50,Mortality,1989,Female,22,23.3,Mortality Female
+"Lung C33, C34",Incidence,2014,Person,124,34.6,Incidence Person
+Bowel C18-C20,Mortality,1987,Female,22,32.1,Mortality Female
+All sites C00-C96 excl C44,Incidence,2000,Person,1188,477.4,Incidence Person
+"Lung C33, C34",Incidence,1985,Female,12,17.4,Incidence Female
+Melanoma of skin C43,Incidence,1991,Female,34,27.8,Incidence Female
+"Lung C33, C34",Mortality,2014,Female,36,18.8,Mortality Female
+Bowel C18-C20,Mortality,1990,Person,41,29.5,Mortality Person
+Prostate C61,Incidence,2014,Male,246,138.3,Incidence Male
+Melanoma of skin C43,Incidence,1987,Person,90,40.2,Incidence Person
+Breast C50,Mortality,2003,Female,29,19.8,Mortality Female
+Melanoma of skin C43,Incidence,1990,Male,36,43.9,Incidence Male
+Bowel C18-C20,Mortality,1985,Person,37,29.1,Mortality Person
+Melanoma of skin C43,Incidence,1985,Male,33,30.6,Incidence Male
+"Lung C33, C34",Incidence,1999,Female,18,14.3,Incidence Female
+All sites C00-C96 excl C44,Mortality,2001,Male,230,223.5,Mortality Male
+Bowel C18-C20,Mortality,2009,Person,62,20.1,Mortality Person
+All sites C00-C96 excl C44,Incidence,1999,Female,470,358.6,Incidence Female
+All sites C00-C96 excl C44,Incidence,2009,Male,809,547.7,Incidence Male
+Bowel C18-C20,Incidence,1990,Person,82,52.8,Incidence Person
+Melanoma of skin C43,Incidence,1997,Female,49,35.8,Incidence Female
+All sites C00-C96 excl C44,Incidence,2007,Person,1414,462,Incidence Person
+All sites C00-C96 excl C44,Mortality,1993,Person,321,190.9,Mortality Person
+Breast C50,Mortality,1993,Female,31,30.8,Mortality Female
+All sites C00-C96 excl C44,Incidence,2013,Person,1651,451.6,Incidence Person
+Bowel C18-C20,Incidence,2007,Male,88,64.5,Incidence Male
+All sites C00-C96 excl C44,Mortality,2007,Female,203,123.6,Mortality Female
+All sites C00-C96 excl C44,Mortality,2005,Person,405,151.2,Mortality Person
+"Lung C33, C34",Incidence,2007,Female,51,32.8,Incidence Female
+Bowel C18-C20,Incidence,1998,Female,46,39.1,Incidence Female
+"Lung C33, C34",Mortality,1992,Female,18,20.1,Mortality Female
+Bowel C18-C20,Incidence,2003,Male,80,65.1,Incidence Male
+"Lung C33, C34",Incidence,2013,Person,118,33.1,Incidence Person
+Breast C50,Incidence,2011,Female,250,134.1,Incidence Female
+Bowel C18-C20,Mortality,2005,Person,55,22,Mortality Person
+Bowel C18-C20,Incidence,1999,Female,56,45.5,Incidence Female
+Bowel C18-C20,Incidence,2000,Female,85,67.1,Incidence Female
+All sites C00-C96 excl C44,Mortality,1994,Male,189,246.7,Mortality Male
+All sites C00-C96 excl C44,Incidence,1997,Person,993,452.9,Incidence Person
+"Lung C33, C34",Incidence,1997,Person,68,34.3,Incidence Person
+"Lung C33, C34",Mortality,2007,Female,31,19.5,Mortality Female
+Breast C50,Mortality,1996,Female,39,34.2,Mortality Female
+"Lung C33, C34",Incidence,2005,Male,50,41.5,Incidence Male
+"Lung C33, C34",Mortality,2008,Male,44,32.8,Mortality Male
+Bowel C18-C20,Mortality,2003,Female,25,18.7,Mortality Female
+Bowel C18-C20,Mortality,1998,Person,44,21.7,Mortality Person
+All sites C00-C96 excl C44,Incidence,2014,Female,791,400.1,Incidence Female
+Melanoma of skin C43,Incidence,2006,Male,69,48.8,Incidence Male
+Melanoma of skin C43,Incidence,1996,Female,40,30,Incidence Female
+"Lung C33, C34",Mortality,2003,Male,40,35.1,Mortality Male
+All sites C00-C96 excl C44,Incidence,2011,Female,710,386.7,Incidence Female
+Melanoma of skin C43,Incidence,1992,Female,37,30.7,Incidence Female
+Melanoma of skin C43,Incidence,1991,Person,77,34.4,Incidence Person
+All sites C00-C96 excl C44,Incidence,1989,Person,621,381.3,Incidence Person
+All sites C00-C96 excl C44,Incidence,1990,Person,672,400.4,Incidence Person
+Bowel C18-C20,Incidence,1989,Male,53,74.2,Incidence Male
+Breast C50,Incidence,1987,Female,64,70.5,Incidence Female
+Breast C50,Incidence,2012,Female,249,133.2,Incidence Female
+Bowel C18-C20,Incidence,1990,Female,40,49.1,Incidence Female
+All sites C00-C96 excl C44,Mortality,2003,Male,235,215.4,Mortality Male
+All sites C00-C96 excl C44,Incidence,1989,Female,318,351.4,Incidence Female
+Melanoma of skin C43,Incidence,1993,Person,82,32.5,Incidence Person
+"Lung C33, C34",Mortality,1994,Person,50,28.4,Mortality Person
+"Lung C33, C34",Mortality,1999,Female,23,19.4,Mortality Female
+All sites C00-C96 excl C44,Incidence,2012,Male,848,522.1,Incidence Male
+All sites C00-C96 excl C44,Incidence,2014,Male,882,510.2,Incidence Male
+"Lung C33, C34",Mortality,1990,Female,16,18.8,Mortality Female
+All sites C00-C96 excl C44,Incidence,2008,Person,1440,457.1,Incidence Person
+Bowel C18-C20,Incidence,2012,Female,118,64.4,Incidence Female
+Breast C50,Incidence,1992,Female,102,98.1,Incidence Female
+Prostate C61,Mortality,1991,Male,18,42.2,Mortality Male
+Melanoma of skin C43,Incidence,2004,Female,62,38.9,Incidence Female
+"Lung C33, C34",Mortality,1996,Female,16,15,Mortality Female
+Breast C50,Mortality,1991,Female,44,47.3,Mortality Female
+Breast C50,Incidence,2005,Female,201,123.4,Incidence Female
+Melanoma of skin C43,Incidence,1999,Female,46,32.9,Incidence Female
+"Lung C33, C34",Mortality,1995,Person,41,22,Mortality Person
+Bowel C18-C20,Mortality,1996,Person,52,27.7,Mortality Person
+Bowel C18-C20,Incidence,1988,Male,48,63.7,Incidence Male
+"Lung C33, C34",Mortality,2010,Male,35,25.8,Mortality Male
+Bowel C18-C20,Mortality,1988,Person,41,36.2,Mortality Person
+Bowel C18-C20,Mortality,2004,Male,35,28.8,Mortality Male
+"Lung C33, C34",Incidence,2004,Male,52,43.6,Incidence Male
+Bowel C18-C20,Incidence,1995,Female,43,40.5,Incidence Female
+All sites C00-C96 excl C44,Incidence,1988,Female,299,330.7,Incidence Female
+Melanoma of skin C43,Incidence,1990,Female,33,29.2,Incidence Female
+"Lung C33, C34",Incidence,1986,Male,35,65.2,Incidence Male
+All sites C00-C96 excl C44,Incidence,1987,Person,568,357.4,Incidence Person
+"Lung C33, C34",Mortality,2000,Male,35,33.1,Mortality Male
+All sites C00-C96 excl C44,Incidence,2011,Person,1530,446,Incidence Person
+Bowel C18-C20,Incidence,2002,Male,102,85.1,Incidence Male
+"Lung C33, C34",Mortality,2008,Person,87,29.2,Mortality Person
+Bowel C18-C20,Incidence,1998,Male,84,78.5,Incidence Male
+Breast C50,Mortality,2004,Female,32,20.4,Mortality Female
+"Lung C33, C34",Mortality,1986,Person,59,44.8,Mortality Person
+Prostate C61,Incidence,1988,Male,33,68.6,Incidence Male
+All sites C00-C96 excl C44,Mortality,2006,Male,235,191.9,Mortality Male
+Bowel C18-C20,Mortality,1995,Female,25,23.6,Mortality Female
+Melanoma of skin C43,Incidence,2008,Male,84,57.8,Incidence Male
+Melanoma of skin C43,Incidence,2012,Male,74,46.1,Incidence Male
+Bowel C18-C20,Incidence,2010,Female,100,57.9,Incidence Female
+All sites C00-C96 excl C44,Incidence,1990,Male,332,474.2,Incidence Male
+Breast C50,Mortality,2002,Female,31,21.8,Mortality Female
+All sites C00-C96 excl C44,Incidence,1996,Male,540,566.3,Incidence Male
+Bowel C18-C20,Incidence,1992,Male,62,83.6,Incidence Male
+Prostate C61,Mortality,1985,Male,6,17.6,Mortality Male
+All sites C00-C96 excl C44,Incidence,2006,Female,612,380.6,Incidence Female
+Bowel C18-C20,Incidence,1988,Person,91,61.2,Incidence Person
+"Lung C33, C34",Mortality,1996,Person,54,28.8,Mortality Person
+Bowel C18-C20,Mortality,2010,Female,24,13.5,Mortality Female
+Bowel C18-C20,Mortality,1989,Female,19,23.3,Mortality Female
+Bowel C18-C20,Incidence,1991,Person,103,63.3,Incidence Person
+"Lung C33, C34",Incidence,2002,Female,29,21.5,Incidence Female
+Melanoma of skin C43,Incidence,2011,Female,52,28.1,Incidence Female
+All sites C00-C96 excl C44,Incidence,1997,Female,450,370.1,Incidence Female
+Prostate C61,Incidence,2002,Male,153,134,Incidence Male
+All sites C00-C96 excl C44,Incidence,2015,Male,883,491.5,Incidence Male
+Bowel C18-C20,Mortality,2002,Female,21,15.5,Mortality Female
+Bowel C18-C20,Mortality,1985,Male,19,32,Mortality Male
+Prostate C61,Mortality,1997,Male,16,24.8,Mortality Male
+Prostate C61,Mortality,1999,Male,19,25.9,Mortality Male
+All sites C00-C96 excl C44,Incidence,1993,Person,797,418.1,Incidence Person
+Prostate C61,Mortality,2007,Male,26,23.8,Mortality Male
+All sites C00-C96 excl C44,Mortality,2013,Male,261,164.7,Mortality Male
+All sites C00-C96 excl C44,Mortality,1988,Female,121,162.1,Mortality Female
+Bowel C18-C20,Mortality,1991,Female,25,32,Mortality Female
+Bowel C18-C20,Mortality,2009,Male,29,21.4,Mortality Male
+"Lung C33, C34",Incidence,2001,Person,67,27.1,Incidence Person
+"Lung C33, C34",Incidence,2003,Person,83,33.2,Incidence Person
+All sites C00-C96 excl C44,Incidence,1991,Female,324,332.5,Incidence Female
+"Lung C33, C34",Incidence,2006,Female,40,26.3,Incidence Female
+All sites C00-C96 excl C44,Mortality,2004,Person,411,156.9,Mortality Person
+"Lung C33, C34",Incidence,2005,Person,102,36.6,Incidence Person
+All sites C00-C96 excl C44,Incidence,2003,Female,572,377.6,Incidence Female
+"Lung C33, C34",Mortality,2005,Person,55,20.7,Mortality Person
+"Lung C33, C34",Incidence,2011,Male,46,32,Incidence Male
+Prostate C61,Mortality,1986,Male,10,26.4,Mortality Male
+Prostate C61,Incidence,1989,Male,38,69,Incidence Male
+"Lung C33, C34",Incidence,2009,Male,49,34.3,Incidence Male
+Bowel C18-C20,Incidence,1994,Person,115,61.3,Incidence Person
+Melanoma of skin C43,Incidence,1988,Person,90,45.3,Incidence Person
+All sites C00-C96 excl C44,Incidence,1994,Male,473,556,Incidence Male
+"Lung C33, C34",Incidence,2002,Person,76,31.4,Incidence Person
+Bowel C18-C20,Mortality,1990,Female,23,30.9,Mortality Female
+"Lung C33, C34",Incidence,1986,Female,18,21.3,Incidence Female
+Prostate C61,Mortality,2013,Male,32,21.7,Mortality Male
+"Lung C33, C34",Mortality,1994,Female,17,16.9,Mortality Female
+All sites C00-C96 excl C44,Mortality,2013,Person,505,142.2,Mortality Person
+"Lung C33, C34",Mortality,1993,Female,13,14.5,Mortality Female
+All sites C00-C96 excl C44,Incidence,2001,Female,533,371.2,Incidence Female
+All sites C00-C96 excl C44,Incidence,1992,Person,717,402.6,Incidence Person
+"Lung C33, C34",Incidence,1999,Male,47,45.9,Incidence Male
+"Lung C33, C34",Mortality,1999,Male,30,34.2,Mortality Male
+All sites C00-C96 excl C44,Incidence,1993,Male,424,518,Incidence Male
+Prostate C61,Mortality,1987,Male,15,40.1,Mortality Male
+All sites C00-C96 excl C44,Mortality,2014,Male,272,170.5,Mortality Male
+Bowel C18-C20,Mortality,2001,Female,33,24.8,Mortality Female
+Bowel C18-C20,Mortality,2011,Person,52,15.6,Mortality Person
+All sites C00-C96 excl C44,Mortality,2010,Male,233,168.2,Mortality Male
+"Lung C33, C34",Incidence,1989,Person,67,46.3,Incidence Person
+Bowel C18-C20,Incidence,1994,Male,56,59.5,Incidence Male
+All sites C00-C96 excl C44,Mortality,1994,Person,315,177.2,Mortality Person
+Prostate C61,Mortality,1988,Male,16,36,Mortality Male
+All sites C00-C96 excl C44,Mortality,1999,Female,191,156.6,Mortality Female
+Bowel C18-C20,Incidence,1997,Female,54,48.2,Incidence Female
+Bowel C18-C20,Mortality,2007,Male,43,33.5,Mortality Male
+All sites C00-C96 excl C44,Mortality,1991,Male,166,254.7,Mortality Male
+All sites C00-C96 excl C44,Incidence,1987,Male,278,414,Incidence Male
+All sites C00-C96 excl C44,Mortality,1991,Person,318,204.5,Mortality Person
+"Lung C33, C34",Mortality,1985,Person,35,30,Mortality Person
+Bowel C18-C20,Incidence,1996,Male,66,68.5,Incidence Male
+Bowel C18-C20,Incidence,1985,Female,44,64.3,Incidence Female
+Melanoma of skin C43,Incidence,2012,Person,148,41.3,Incidence Person
+"Lung C33, C34",Mortality,2013,Female,37,18.9,Mortality Female
+All sites C00-C96 excl C44,Incidence,2012,Female,829,441.5,Incidence Female
+Breast C50,Mortality,2013,Female,55,28,Mortality Female
+Breast C50,Incidence,1995,Female,148,119.2,Incidence Female
+Bowel C18-C20,Mortality,1997,Male,32,35,Mortality Male
+"Lung C33, C34",Mortality,2011,Female,31,17.8,Mortality Female
+Bowel C18-C20,Incidence,1997,Male,68,72.3,Incidence Male
+Prostate C61,Mortality,2003,Male,30,33.4,Mortality Male
+Melanoma of skin C43,Incidence,2007,Female,48,27.5,Incidence Female
+All sites C00-C96 excl C44,Mortality,1993,Female,136,141,Mortality Female
+"Lung C33, C34",Mortality,2004,Male,50,42.7,Mortality Male
+"Lung C33, C34",Mortality,2003,Female,19,13.9,Mortality Female
+Melanoma of skin C43,Incidence,2005,Female,79,48.6,Incidence Female
+Melanoma of skin C43,Incidence,2000,Male,55,42.9,Incidence Male
+Bowel C18-C20,Incidence,1990,Male,42,55.2,Incidence Male
+Prostate C61,Incidence,1990,Male,50,93.6,Incidence Male
+All sites C00-C96 excl C44,Incidence,2005,Female,638,404.7,Incidence Female
+Bowel C18-C20,Incidence,2011,Person,188,57,Incidence Person
+All sites C00-C96 excl C44,Incidence,1985,Male,275,462.3,Incidence Male
+"Lung C33, C34",Incidence,2000,Male,49,46.2,Incidence Male
+Bowel C18-C20,Mortality,2010,Male,41,29.2,Mortality Male
+Bowel C18-C20,Mortality,2001,Male,29,25.5,Mortality Male
+All sites C00-C96 excl C44,Mortality,1986,Person,271,216.7,Mortality Person
+All sites C00-C96 excl C44,Mortality,1995,Person,357,187.7,Mortality Person
+Prostate C61,Mortality,2014,Male,37,25.2,Mortality Male
+Melanoma of skin C43,Incidence,2014,Female,81,40.3,Incidence Female
+Prostate C61,Mortality,2011,Male,30,22.8,Mortality Male
+Melanoma of skin C43,Incidence,1995,Person,105,45.8,Incidence Person
+"Lung C33, C34",Incidence,2006,Person,91,33,Incidence Person
+Bowel C18-C20,Incidence,2013,Person,186,52.3,Incidence Person
+Melanoma of skin C43,Incidence,2015,Male,95,51.8,Incidence Male
+"Lung C33, C34",Mortality,2004,Female,19,13.7,Mortality Female
+All sites C00-C96 excl C44,Incidence,1997,Male,543,564,Incidence Male
+Melanoma of skin C43,Incidence,2011,Male,74,47.4,Incidence Male
+Breast C50,Incidence,2000,Female,198,135.9,Incidence Female
+Bowel C18-C20,Mortality,1990,Male,18,25,Mortality Male
+Melanoma of skin C43,Incidence,1988,Male,50,55.7,Incidence Male
+All sites C00-C96 excl C44,Incidence,1995,Female,431,369.1,Incidence Female
+Bowel C18-C20,Mortality,2008,Person,53,17.7,Mortality Person
+Bowel C18-C20,Incidence,1997,Person,122,58.8,Incidence Person
+All sites C00-C96 excl C44,Incidence,2012,Person,1677,475.3,Incidence Person
+All sites C00-C96 excl C44,Mortality,2005,Male,187,167.2,Mortality Male
+Melanoma of skin C43,Incidence,2001,Male,48,36.6,Incidence Male
+All sites C00-C96 excl C44,Incidence,2015,Person,1646,428.7,Incidence Person
+Bowel C18-C20,Mortality,1985,Female,18,26.3,Mortality Female
+All sites C00-C96 excl C44,Incidence,1992,Female,322,316.6,Incidence Female
+"Lung C33, C34",Incidence,2000,Person,79,33.6,Incidence Person
+Melanoma of skin C43,Incidence,1994,Person,68,29.5,Incidence Person
+All sites C00-C96 excl C44,Mortality,1985,Person,216,177,Mortality Person
+"Lung C33, C34",Incidence,2015,Female,49,24.2,Incidence Female
+Breast C50,Incidence,1994,Female,138,120.7,Incidence Female
+"Lung C33, C34",Mortality,1989,Female,13,16.9,Mortality Female
+Breast C50,Mortality,2006,Female,42,26,Mortality Female
+All sites C00-C96 excl C44,Incidence,1991,Male,399,542.7,Incidence Male
+"Lung C33, C34",Incidence,2008,Male,53,38.3,Incidence Male
+Breast C50,Incidence,2002,Female,202,131,Incidence Female
+"Lung C33, C34",Incidence,1991,Female,19,20.8,Incidence Female
+Bowel C18-C20,Incidence,2009,Male,108,75.6,Incidence Male
+Bowel C18-C20,Mortality,1988,Male,19,37.6,Mortality Male
+All sites C00-C96 excl C44,Mortality,1997,Person,379,186.1,Mortality Person
+"Lung C33, C34",Incidence,2001,Female,24,17.9,Incidence Female
+Bowel C18-C20,Incidence,2002,Person,182,71.4,Incidence Person
+"Lung C33, C34",Mortality,2002,Person,49,21.2,Mortality Person
+All sites C00-C96 excl C44,Mortality,1991,Female,152,174.9,Mortality Female
+All sites C00-C96 excl C44,Mortality,1985,Male,106,220.8,Mortality Male
+Bowel C18-C20,Mortality,1995,Person,50,25.5,Mortality Person
+All sites C00-C96 excl C44,Mortality,1996,Male,215,272.3,Mortality Male
+All sites C00-C96 excl C44,Mortality,2000,Male,214,231.3,Mortality Male
+Melanoma of skin C43,Incidence,2010,Female,43,23.4,Incidence Female
+"Lung C33, C34",Mortality,1992,Male,38,52.8,Mortality Male
+All sites C00-C96 excl C44,Mortality,2012,Person,482,141.8,Mortality Person
+Bowel C18-C20,Mortality,1999,Person,52,24.3,Mortality Person
+"Lung C33, C34",Mortality,2013,Male,44,29,Mortality Male
+"Lung C33, C34",Incidence,1993,Male,41,48.8,Incidence Male
+Melanoma of skin C43,Incidence,2001,Female,66,43.7,Incidence Female
+All sites C00-C96 excl C44,Incidence,1985,Female,270,351.3,Incidence Female
+Melanoma of skin C43,Incidence,2008,Person,144,44.5,Incidence Person
+Breast C50,Incidence,1993,Female,112,99.5,Incidence Female
+Bowel C18-C20,Incidence,1988,Female,43,56.6,Incidence Female
+"Lung C33, C34",Incidence,2005,Female,52,33.8,Incidence Female
+All sites C00-C96 excl C44,Mortality,2012,Male,261,176.4,Mortality Male
+Breast C50,Incidence,1986,Female,68,83.8,Incidence Female
+Breast C50,Mortality,2014,Female,35,17.1,Mortality Female
