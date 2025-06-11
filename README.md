@@ -1,2 +1,2 @@
-- 👋 HELLO WORLD
+- 👋 HELLO WORLD！
 - 你好!
